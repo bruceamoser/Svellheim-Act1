@@ -1,0 +1,159 @@
+{
+  "name": "Beat 4b — The Greypass Toll",
+  "type": "draw-steel-negotiation.negotiationTest",
+  "img": "icons/svg/combat.svg",
+  "system": {
+    "schemaVersion": 1,
+    "title": "Beat 4b — The Greypass Toll",
+    "createdAtIso": "2026-03-02T20:56:44.553Z",
+    "createdByUserId": "",
+    "setup": {
+      "overview": "<p>The road narrows between two bluffs of dark stone. A wall of stacked timber and iron bars blocks the path — a gate, a guardhouse, a flag bearing the Chainwarden sigil: a broken chain, re-forged. Two wardens stand at the gate, wrapped in furs over mail. One holds a ledger. The other holds a spear.</p><p>\"Papers,\" says the one with the ledger. It is not a request.</p><p>This is a <strong>Moderate Negotiation</strong> with Warden-Sergeant Eirik Greyhand, toll commander at the Greypass checkpoint. He is not corrupt — he is exhausted. The toll is underfunded, understaffed, and overwhelmed. He wants travellers to follow procedure so he can maintain the fiction that the system works.</p>",
+      "outcomes": {
+        "success": "<p>The PCs pass freely. Eirik provides road intelligence:</p><p>\"The mountain road is passable but ugly. Two rockfalls in the last week — you'll need to detour around the second one, near Kross-stead. And watch the gorge bridge — the western footing has shifted. It'll hold, probably, but don't linger on it.\"</p><p>He pauses. \"There's also... something else. The patrols up in the high country have been finding tracks. Big ones. Not bear, not wolf. Something that walks on two legs but drags something behind it. We don't go looking. I'd suggest you don't either.\"</p>",
+        "partialSuccess": "<p>The PCs are treated with suspicion. Patience has run out. Choose one consequence:</p><ul><li><strong>Heat cost:</strong> Forced to surrender 2 days' rations as \"toll payment.\"</li><li><strong>Word cost:</strong> Their descriptions are logged in the ledger. Grafvitnir's network may access this (+1 to all future Grafvitnir Pressure Checks).</li><li><strong>Time cost:</strong> Delayed half a day while paperwork is \"processed.\"</li></ul>",
+        "failure": "<p>Patience exhausted entirely. All three consequences apply:</p><ul><li>Forced to surrender rations.</li><li>Descriptions logged in the ledger.</li><li>Delayed a full day.</li></ul><p>If intimidation was used, the garrison of 8 wardens is now actively hostile. The PCs may need to retreat, find another route, or fight their way through — costing significant time and alerting the entire Greypass district to their presence.</p>"
+      },
+      "rulesProfileId": "draw-steel-v1.01b",
+      "structure": {
+        "kind": "freeform",
+        "maxRounds": null,
+        "stages": []
+      },
+      "visibility": {
+        "showNpcNames": true,
+        "showInterest": "value",
+        "showPatience": "value",
+        "showArgumentDetails": true,
+        "showRollTotals": true
+      },
+      "allowEditingPreviousEntries": false
+    },
+    "participants": [
+      {
+        "id": "fPs0A1uTpfUabf0V",
+        "actorUuid": "",
+        "displayName": "Warden-Sergeant Eirik Greyhand",
+        "kind": "npc",
+        "role": "",
+        "isActive": true,
+        "notesGM": ""
+      },
+      {
+        "id": "3DXb9hn2OgFHXLEI",
+        "actorUuid": "",
+        "displayName": "Kaelen",
+        "kind": "pc",
+        "role": "",
+        "isActive": true,
+        "notesGM": ""
+      },
+      {
+        "id": "VJvHocHUNPgZGQOf",
+        "actorUuid": "",
+        "displayName": "Hero 2",
+        "kind": "pc",
+        "role": "",
+        "isActive": true,
+        "notesGM": ""
+      },
+      {
+        "id": "UIT6ZQoK6Zp8feau",
+        "actorUuid": "",
+        "displayName": "Hero 3",
+        "kind": "pc",
+        "role": "",
+        "isActive": true,
+        "notesGM": ""
+      },
+      {
+        "id": "RL3vQK3jaYExELwK",
+        "actorUuid": "",
+        "displayName": "Hero 4",
+        "kind": "pc",
+        "role": "",
+        "isActive": true,
+        "notesGM": ""
+      }
+    ],
+    "npcStateByParticipantId": {
+      "fPs0A1uTpfUabf0V": {
+        "interest": {
+          "value": 2,
+          "min": 0,
+          "max": 5
+        },
+        "patience": {
+          "value": 3,
+          "min": 0,
+          "max": 5
+        },
+        "motivations": [
+          {
+            "id": "ScDsvqbAp2fhrRZm",
+            "label": "order and proper procedure",
+            "revealed": false
+          },
+          {
+            "id": "tzylGOGl00QFbPFV",
+            "label": "supplies (fuel, rations worth more than coin)",
+            "revealed": false
+          },
+          {
+            "id": "Op4imWcBBtGFDkIr",
+            "label": "news from Hrafnborg (family he hasn't heard from in a month)",
+            "revealed": false
+          }
+        ],
+        "pitfalls": [
+          {
+            "id": "8Lp402HQIlTdmU47",
+            "label": "threats or intimidation (8 wardens, fortified position -- catastrophic)",
+            "revealed": false
+          },
+          {
+            "id": "BVfDNAtLEw0LKHJW",
+            "label": "demanding free passage without justification",
+            "revealed": false
+          },
+          {
+            "id": "PYqTGZHvgA7lxvWZ",
+            "label": "bluffing military rank without a Tier 3 roll",
+            "revealed": false
+          }
+        ],
+        "discovered": {
+          "motivations": [],
+          "pitfalls": []
+        }
+      }
+    },
+    "timeline": [],
+    "resolution": {
+      "status": "notStarted",
+      "outcomeId": "",
+      "summaryPublic": "",
+      "summaryGM": "",
+      "resolvedAtIso": ""
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_id": "0PZeerFQuRcpq3BR"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Beat 2: The Road to Hrafnborg",
+  "type": "draw-steel-montage.montageTest",
+  "img": "icons/svg/clockwork.svg",
+  "system": {
+    "description": "<h2>The Road to Hrafnborg</h2><p><strong>Level:</strong> 1 | <strong>Beat:</strong> 2<br><strong>Location:</strong> The Lantern Road<br><strong>Type:</strong> Travel montage (Easy, 2â€“3 days)<br><strong>Tone:</strong> Cold fellowship, growing dread, first blood</p><p>The PCs travel to Hrafnborg along the failing Lantern Road. Strangers bound by the same grim duty share a road, a fire, and their suspicions. This montage covers the journey before the party reaches the graveyard outside Hrafnborg â€” where the dead will rise for the first time.</p>",
+    "difficulty": "easy",
+    "successLimit": 4,
+    "failureLimit": 4,
+    "complications": {
+      "round1": "<h3>Navigate the Lantern Road <em>(Reason)</em></h3><p>Stay on failing roads, read buried markers, avoid dead-end detours. The road splits and rejoins â€” choosing the wrong fork adds hours.</p><h3>Endure the Cold <em>(Might)</em></h3><p>Resist frostbite, carry gear through snowdrifts, ford frozen streams. The supplies must last days, not hours.</p><h3>Find Shelter at Night <em>(Intuition)</em></h3><p>Locate wind-breaks, abandoned crofts, or natural shelters before the temperature drops to lethal ranges.</p><h3>Avoid Trouble on the Road <em>(Agility)</em></h3><p>Slip past bandit camps, desperate refugees, or rival groups who suspect why you're heading toward Hrafnborg while everyone else flees.</p>",
+      "round2": ""
+    },
+    "outcomes": {
+      "round1": "<h3>Total Success</h3><p>Arrive rested and supplied. No Heat loss. Earn 1 Victory.</p><h3>Partial Success</h3><p>Arrive tired. Lose 1 day's rations (Heat) or one piece of minor equipment is damaged (Weight).</p><h3>Total Failure</h3><p>Arrive exhausted and rattled. One PC has a condition (frostbitten or exhausted). Lose 2 days' rations. Director gains 2 additional Malice for the graveyard encounter.</p>",
+      "round2": ""
+    },
+    "participants": []
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_id": "4qhSj4dxPsptbCJ7"
+}

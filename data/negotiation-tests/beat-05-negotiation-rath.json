@@ -1,0 +1,97 @@
+{
+  "name": "Beat 5: The Debt Collector — Rath Negotiation",
+  "type": "draw-steel-negotiation.negotiationTest",
+  "img": "icons/svg/coins.svg",
+  "system": {
+    "schemaVersion": 1,
+    "title": "The Debt Collector — Negotiating with Rath",
+    "createdAtIso": "2026-02-22T00:00:00.000Z",
+    "createdByUserId": "",
+    "setup": {
+      "overview": "<h2>The Debt Collector — Rath</h2><p><strong>Level:</strong> 1 | <strong>Beat:</strong> 5 (Optional Task) | <strong>Location:</strong> Stairwatch</p><p>A man named Rath has arrived in Stairwatch claiming Lew owes him a significant debt from a previous contract. Rath is technically correct — Lew took payment for a finding-job and didn't deliver, because the “lost thing” turned out to be a person hiding for good reason. Lew needs the PCs to negotiate with Rath on his behalf.</p><p>This is a secondary negotiation within Beat 5's local task resolution. It can be resolved through persuasion (<em>negotiation</em>) or investigation (exposing Rath's true employer, connecting him to the Pale Maw).</p><hr><h3>GM Notes: Rath's True Purpose</h3><p>Rath isn't just a debt collector — he's working for someone who wants the hidden person found. If the PCs investigate (Intuition DC 14, or social digging), they discover his employer has connections to the Pale Maw. This makes the negotiation a moral choice:</p><ul><li><strong>Pay the debt:</strong> Lew's name is cleared, but funds flow to Pale Maw-adjacent interests.</li><li><strong>Expose Rath:</strong> Rath's employer is stripped of leverage, but Lew's reputation takes a short-term hit as “the man whose debt led to a scene.”</li></ul><p>Rath plays it straight — he doesn't know his employer's full allegiances. He's just a hired collector doing a job.</p>",
+      "outcomes": {
+        "success": "<h3>Success</h3><p>Rath accepts alternative payment or forgives the debt entirely. He's satisfied: honor has been observed, the math is settled. He leaves Stairwatch on the morning coach. Lew owes the PCs a small additional favor beyond the original deal.</p>",
+        "partialSuccess": "<h3>Partial Success</h3><p>Rath accepts partial settlement — Lew pays a portion of the debt in Word (a public acknowledgment of the obligation) and the PCs cover the remainder in Heat or Weight. Rath is not satisfied, but he's mollified. He'll be back eventually.</p>",
+        "failure": "<h3>Failure</h3><p>Rath escalates. He files a formal complaint with the Chainwarden Post (Sergeant Tormund, who is sympathetic but rule-bound). Lew is technically detained pending investigation. The PCs must complete the other local task first and then find a way to clear his name through either evidence or bribery before they can leave Stairwatch.</p>"
+      },
+      "rulesProfileId": "draw-steel-v1.01b",
+      "structure": {
+        "kind": "freeform",
+        "maxRounds": null,
+        "stages": null
+      },
+      "visibility": {
+        "showNpcNames": true,
+        "showInterest": "value",
+        "showPatience": "value",
+        "showArgumentDetails": true,
+        "showRollTotals": true
+      },
+      "allowEditingPreviousEntries": false
+    },
+    "participants": [
+      {
+        "id": "npc-rath",
+        "actorUuid": "",
+        "displayName": "Rath (Debt Collector)",
+        "kind": "npc",
+        "role": "Hired Collector",
+        "isActive": true,
+        "notesGM": "Hired debt collector, technically in the right on the original claim. Not malicious — just professional. Does not know his employer has Pale Maw connections. Will back down if the argument for justice or mutual respect is made clearly, but is immune to evasion or outright lies."
+      }
+    ],
+    "npcStateByParticipantId": {
+      "npc-rath": {
+        "interest": {
+          "value": 2,
+          "min": 0,
+          "max": 5
+        },
+        "patience": {
+          "value": 3,
+          "min": 0,
+          "max": 5
+        },
+        "motivations": [
+          {
+            "id": "justice",
+            "label": "Justice",
+            "isRevealed": false
+          },
+          {
+            "id": "respect",
+            "label": "Respect",
+            "isRevealed": false
+          }
+        ],
+        "pitfalls": [
+          {
+            "id": "lies",
+            "label": "Lies",
+            "isRevealed": false
+          },
+          {
+            "id": "evasion",
+            "label": "Evasion",
+            "isRevealed": false
+          }
+        ],
+        "discovered": {
+          "motivations": [],
+          "pitfalls": []
+        }
+      }
+    },
+    "timeline": [],
+    "resolution": {
+      "status": "notStarted",
+      "outcomeId": "",
+      "summaryPublic": "",
+      "summaryGM": "",
+      "resolvedAtIso": ""
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_id": "rY3UDmvjU5W1CFSU"
+}
