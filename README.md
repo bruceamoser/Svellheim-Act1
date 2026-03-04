@@ -1,12 +1,50 @@
-# Svellheim Act 1
+# Svellheim: Act 1 — Restore the Flame
 
-Act 1 content for the Svellheim campaign (Draw Steel / Foundry VTT).
+A **Foundry VTT** module for the [Draw Steel](https://mcdmproductions.com) system.  
+Contains montage tests, negotiation tests, player journals, and director journals for **Act 1** of the Svellheim campaign.
 
-## Structure
+## Installation
 
-- `data/` - Source JSON files
-  - `montage-tests/` - Act 1 montage test definitions (beats 2-9)
-  - `negotiation-tests/` - Act 1 negotiation definitions (beats 4-8)
-  - `player-journals/` - Act 1 player handout journals
-- `module/packs/` - Compiled Foundry VTT LevelDB packs
-- `tools/` - Build scripts
+1. In Foundry VTT, go to **Add-on Modules → Install Module**.
+2. Paste the manifest URL:
+   ```
+   https://github.com/bruceamoser/Svellheim-Act1/releases/latest/download/module.json
+   ```
+3. Click **Install**.
+
+## Dependencies
+
+| Module | Required |
+|---|---|
+| [Draw Steel](https://github.com/MetaMorphic-Digital/draw-steel) (system) | Yes |
+| [Svellheim: Entities](https://github.com/bruceamoser/Svellheim-Entities) | Yes |
+
+## Compendium Packs
+
+| Pack | Type | Contents |
+|---|---|---|
+| Svellheim Act 1: Montage Tests | Item | Montage test definitions (beats 2–9) |
+| Svellheim Act 1: Negotiation Tests | Item | Negotiation definitions (beats 4–8) |
+| Svellheim Act 1: Player Journals | JournalEntry | Player handout journals |
+| Svellheim Act 1: Director Journals | JournalEntry | GM-facing director journals |
+
+## Repository Structure
+
+```
+data/                 Source JSON files
+  montage-tests/      Montage test definitions
+  negotiation-tests/  Negotiation definitions
+  player-journals/    Player handout journals
+  director-journals/  Director (GM) journals
+module/packs/         Compiled Foundry VTT LevelDB packs
+tools/                Build scripts
+```
+
+## Version
+
+Current release: **v0.1.1**  
+Compatibility: Foundry VTT v11 – v13
+
+## Author
+
+Bruce A. Moser
