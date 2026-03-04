@@ -1,0 +1,78 @@
+ain's next turn. The captain and each of their allies gain an edge on abilities used against targets marked by the captain.</p>
+
+<p><strong>Shield Wall</strong> — <em>Triggered action</em><br>
+<em>Melee</em> | Melee 1 | Self or one ally<br>
+Trigger: A creature makes a strike against the captain or an ally adjacent to them.<br>
+Effect: The damage is halved.</p>
+
+<p><strong>End Effect</strong> — At the end of each of their turns, the captain can take 5 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way.</p>
+
+<p><strong>Supernatural Insight</strong> — The captain ignores concealment if it's granted by a supernatural effect.</p>
+
+<p><strong>Form Up!</strong> — <em>Villain Action 1</em><br>
+Effect: The captain shifts up to their speed. During or after this movement, they can use Chain-Flail Sweep twice.</p>
+
+<p><strong>Disperse!</strong> — <em>Villain Action 2</em><br>
+<em>Area, Magic</em> | 5 burst | Each enemy in the area<br>
+Effect: The captain slides each target up to 5 squares.</p>
+
+<p><strong>By Authority of the Chain!</strong> — <em>Villain Action 3</em><br>
+Effect: Each ally within 10 squares can move up to their speed and make a free strike.</p>
+</div>
+
+<h4>Patrol Aftermath</h4>
+
+<p>If the PCs <strong>win</strong> the fight:</p>
+<ul>
+<li>Search the bodies: Halvard (if present) carries a sealed letter from “V.A.” (Voss Ashwright) describing the party and offering 50 gold for their detention. This is a key intelligence find—evidence that the Chainwardens have been compromised.</li>
+<li>The guards carry Chain-Warden road tokens—useful for bluffing through future checkpoints.</li>
+<li>Earn <strong>1 Victory</strong> for defeating the patrol.</li>
+</ul>
+
+<p>If the PCs <strong>negotiate</strong> past the patrol:</p>
+<ul>
+<li>Halvard lets them through but sends a rider ahead. +1 to future Grafvitnir Pressure Checks.</li>
+<li>No Victory earned, but no resources spent.</li>
+</ul>
+
+<p>If the PCs <strong>flee</strong>:</p>
+<ul>
+<li>They must take a 1-day detour through rough terrain. Lose 1 day's rations.</li>
+<li>The patrol reports their position. +2 to the next Grafvitnir Pressure Check.</li>
+</ul>
+
+<hr>
+
+<h2>Part 4: Point of Interest — The Hollow Waystation</h2>
+
+<p>Between the first montage and the Chainwarden Toll, the party encounters this location. It can serve as a rest stop or a trap.</p>
+
+<div style="background:#2a2a3a; color:#e0d8c8; padding:14px 18px; margin:12px 0; border-radius:6px; border-left:4px solid #c4a03c; font-style:italic;">
+<p>The road widens at a stone-built waystation—one of the old Embertender rest-houses that once dotted the major routes. The roof is intact. The walls are solid. Smoke rises from the chimney.</p>
+
+<p>Someone is inside.</p>
+</div>
+
+<p>Inside: <strong>Bryn Ketilsdottir</strong>, a former Embertender who abandoned her post when her settlement’s Ever-Ember went out. She’s been living in the waystation for three weeks, burning furniture for warmth, rationing a dwindling supply of dried fish.</p>
+
+<ul>
+<li>
+<p>Bryn is not hostile, but she is deeply ashamed. She failed her oath. The Ember she tended flickered and died in the night—no attack, no catastrophe, it just…​ stopped. She couldn’t bear to face her community.</p>
+</li>
+<li>
+<p>If the PCs offer compassion: Bryn shares what she knows. The Ever-Embers are going out <strong>without external cause</strong>. Three more have failed since hers—she heard the news from refugees on the road. "It’s not the cold killing them," she says. "It’s something underneath. The ground is sick."</p>
+</li>
+<li>
+<p>If the PCs push her for information (easy Presence test): Bryn describes the night her Ember died. "I heard a sound. Not from outside—from <strong>below</strong>. Like something exhaling. The flame bent toward the floor and went out. The stone was warm for an hour afterward, as if the fire had sunk into the earth."</p>
+</li>
+<li>
+<p>If the PCs share food: Bryn is overwhelmed. She insists on giving them her last useful possession—a <strong>Chainwarden toll-token</strong> (worth one free passage through a checkpoint, saving Heat or Word at the Greypass Toll).</p>
+</li>
+<li>
+<p>If the PCs help Bryn secure the waystation (or if they show genuine kindness), she also offers a battered iron lantern from the waystation&rsquo;s stores: the @UUID[Item.SVH00WayLantrn01]{Hollow Waystation Lantern}. &ldquo;It was the Embertender&rsquo;s before mine. The flame won&rsquo;t die in the wind. Take it &mdash; I don&rsquo;t deserve to carry their light.&rdquo;</p>
+</li>
+</ul>
+
+<div style="background:#f5f0e6; color:#2a2a2a; border-left:4px solid #4a4a4a; padding:12px 16px; margin:12px 0; border-radius:4px;">
+<h4 style="margin-top:0; color:#4a4a4a;">📝 GM Notes: Bryn</h4>
+<p>Bryn is not a quest-giver. She is a <strong>window into the world</strong>. Her story illustrates what Fimbulwinter does to ordinary people—it breaks them not through violence, but through grinding, inexorable failure. If the PC

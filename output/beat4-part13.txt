@@ -1,0 +1,110 @@
+mit of Titan’s Stair, the path widens into a flat plateau. Cairns stand here—dozens of them, rough-stacked stone pillars ranging from knee-height to taller than a man. Each one is marked with runes.</p>
+
+<p>These are <strong>travel-cairns</strong>—monuments left by generations of travellers who survived the crossing. The tradition: add a stone to the pile, speak a name, and the crossing grants safe passage.</p>
+
+<p>Some of the cairns are recent. One is barely a day old—a small stack with a child’s mitten tucked between the stones.</p>
+
+<p>The newest cairn has no runes. Just a word scratched into the topstone with a knife:</p>
+
+<p><em>HELP.</em></p>
+</div>
+
+<p>No mechanical effect, but this scene hammers home the stakes: this road is barely passable even for the desperate, and the PCs are walking it by choice. If any PC adds a stone to the cairn field, the wind drops for exactly one minute—long enough to feel the sun’s warmth through the clouds, faint but real.</p>
+
+<hr>
+
+<h2>Part 10: Montage 2 Outcomes</h2>
+
+<h3 style="color:#66ff66;">Total Success (5+ successes before failure limit)</h3>
+
+<ul>
+<li>
+<p>The party clears Titan’s Stair and descends to the Interior Belt intact.</p>
+</li>
+<li>
+<p>Earn <strong>2 Victories</strong> (cumulative with Montage 1; maximum 4 Victories from both).</p>
+</li>
+<li>
+<p>Arrive in Stairwatch with supplies and energy.</p>
+</li>
+<li>
+<p>The PCs have proven themselves on the road. They are harder now than when they left.</p>
+</li>
+</ul>
+
+<h3 style="color:#ffff66;">Partial Success (failure limit hit, but 2+ more successes than failures)</h3>
+
+<ul>
+<li>
+<p>Arrive in Stairwatch at cost. Choose one:</p>
+
+<ul>
+<li>
+<p><strong>Heat cost:</strong> Lose 2 days' rations navigating around the rockfalls. Supplies are now critical.</p>
+</li>
+<li>
+<p><strong>Weight cost:</strong> One PC’s equipment is damaged crossing the Gorge Bridge or the ice-bridge (weapon, armour, or tool needs repair in Stairwatch—costs Weight).</p>
+</li>
+<li>
+<p><strong>Word cost:</strong> The PCs were spotted by someone on the descent—a distant figure who turned back toward the toll. Their passage is now on record. (+1 to future Grafvitnir Pressure Checks.)</p>
+</li>
+</ul>
+
+</li>
+<li>
+<p>Earn <strong>1 Victory</strong>.</p>
+</li>
+</ul>
+
+<h3 style="color:#ff6666;">Total Failure</h3>
+
+<ul>
+<li>
+<p>The party still reaches Stairwatch, but arrives <strong>wrecked</strong>:</p>
+
+<ul>
+<li>
+<p>Lose remaining rations <strong>and</strong> one piece of equipment is broken.</p>
+</li>
+<li>
+<p>Grafvitnir’s agents know exactly where the party is. The next Pressure Check triggers automatically at 5+.</p>
+</li>
+<li>
+<p>One PC arrives with a <strong>condition</strong> (exhausted, frostbitten, or rattled—choose based on the worst failure).</p>
+</li>
+<li>
+<p>No Victories earned. Director gains 3 Malice for the next combat encounter.</p>
+</li>
+</ul>
+
+</li>
+</ul>
+
+
+
+<h3>Montage 2 Failure Encounter: Goblin Ambush (Optional)</h3>
+
+<p><em>This encounter triggers on a Total Failure or at the Director's discretion after a Partial Success. Goblins—thought extinct in the Titanspine for generations—have emerged from deep mountain caves, driven forward by an unknown power. They are desperate, feral, and organised under a self-styled monarch.</em></p>
+
+<div style="background:#2a2a3a; color:#e0d8c8; padding:14px 18px; margin:12px 0; border-radius:6px; border-left:4px solid #c4a03c; font-style:italic;">
+<p>The descent path switchbacks through a narrow defile—loose scree above, a sheer drop below. Ahead, the trail is blocked by a crude barricade of broken cart wheels and piled stones.</p>
+
+<p>Then the chittering starts.</p>
+
+<p>Small shapes scramble along the cliff walls above you. Green-grey skin, yellow eyes, crude weapons. One of them—slightly larger, wearing a battered crown made from bent nails and copper wire—stands on a boulder and shrieks something in a language you don't understand.</p>
+
+<p>It points at you. The others charge.</p>
+
+<p>Goblins. Here. That shouldn't be possible.</p>
+</div>
+
+<div style="background:#f5f0e6; color:#2a2a2a; border-left:4px solid #4a4a4a; padding:12px 16px; margin:12px 0; border-radius:4px;">
+<h4 style="margin-top:0; color:#4a4a4a;">📝 GM Notes</h4>
+<p><strong>What's really happening:</strong> These goblins have been driven from their deep caverns by something below—the same power that's raising the dead and pulling things southwest. They don't know what it is. They're as scared as they are dangerous. The Goblin Monarch is desperately trying to establish territory for its tribe before winter kills them all.</p>
+
+<p><strong>Negotiation difficult but possible:</strong> A PC who speaks Caelian or can communicate through gestures can attempt to parley (hard Presence test). Success means the goblins let them pass in exchange for food (half the party's remaining rations). The Monarch is pragmatic—it wants its people alive more than it wants a fight.</p>
+</div>
+
+<h4>Encounter Setup</h4>
+
+<p><strong>Encounter Difficulty:</st

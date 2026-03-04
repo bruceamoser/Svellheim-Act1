@@ -1,0 +1,105 @@
+ toward Hrafnborg clog the road. The PCs need to avoid drawing attention. Questions about their direction—heading <strong>northeast</strong> when everyone else flees <strong>southwest</strong>—will raise suspicion.</td>
+</tr>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;">Calm a panicked pack-mule</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Presence</td>
+<td style="padding:6px 10px; color:#2a2a2a;">The mule balks at a frozen corpse on the road and threatens to bolt with half the supplies.</td>
+</tr>
+<tr style="background:#f5f0e6; color:#2a2a2a;">
+<td style="padding:6px 10px; color:#2a2a2a;">Keep morale up at camp</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Presence</td>
+<td style="padding:6px 10px; color:#2a2a2a;">The landscape is crushing. Four days of grey-white emptiness and freezing wind. The PCs need to keep each other from despair. Stories, songs, small comforts.</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Round 2 Interlude: The Drowned Village</h3>
+<div style="background:#2a2a3a; color:#e0d8c8; padding:14px 18px; margin:12px 0; border-radius:6px; border-left:4px solid #c4a03c; font-style:italic;">
+<p>The Lantern Road crosses what was once a shallow lake—you can tell by the reed-stumps and the change in ground texture. At the lake’s centre, barely visible through frost-haze, rooftops jut from the ice. A village, flooded and frozen.</p>
+
+<p>The ice is clear enough to see through in places. Below: a market square, complete with stalls and carts. A temple spire, its bell still visible. Streets and doorways and—</p>
+
+<p>Movement. Something shifts below the ice. Not a fish. Something with <strong>hands</strong>.</p>
+</div>
+
+<p>The PCs should <strong>not</strong> investigate. If they do: the ice creaks ominously, and whatever is below tracks their movement across the surface. A easy Reason test identifies this as a draugr nest—the village died and the residents didn’t leave. Breaking the ice would release dozens of them.</p>
+
+<p>If the PCs are wise enough to move on, they gain useful information: the dead are <strong>everywhere</strong>, not just in obvious battlefields and barrows. The Frostfen is a cemetery that doesn’t know it’s dead.</p>
+
+<h3>Montage 1 Outcomes</h3>
+
+<h4 style="color:#66ff66;">Total Success (5+ successes before failure limit)</h4>
+
+<ul>
+<li>
+<p>The party crosses the Frostfen and reaches the Herdweg junction intact.</p>
+</li>
+<li>
+<p>Earn <strong>2 Victories</strong>.</p>
+</li>
+<li>
+<p>Supplies are holding. Morale is manageable.</p>
+</li>
+<li>
+<p>Dreyfus’s intelligence from Hrafnborg hasn’t reached field agents yet—delay the first Grafvitnir Pressure Check by one scene.</p>
+</li>
+</ul>
+
+<h4 style="color:#ffff66;">Partial Success (failure limit hit, but 2+ more successes than failures)</h4>
+
+<ul>
+<li>
+<p>Arrive at the Herdweg junction, but at cost. Choose one:</p>
+
+<ul>
+<li>
+<p><strong>Heat cost:</strong> Lost a day navigating the Frostfen. One day’s rations consumed for no progress. (−1 day’s supplies.)</p>
+</li>
+<li>
+<p><strong>Health cost:</strong> Marsh-sickness. One PC has a persistent cough (−1 to Might tests until a respite in a warm building).</p>
+</li>
+<li>
+<p><strong>Remedy available:</strong> PCs who forage successfully in the marshes (medium Intuition test) discover marsh-root &mdash; the raw ingredient for @UUID[Item.SVH0MarshPoult01]{Frostfen Marsh-Root Poultice}. An herbalist PC can prepare one during a rest.</p>
+</li>
+<li>
+<p><strong>Word cost:</strong> A refugee recognised the King’s seal on the forged papers and spread the word. The PCs' cover is thinner. (+1 to future Grafvitnir Pressure Checks.)</p>
+</li>
+</ul>
+
+</li>
+<li>
+<p>Earn <strong>1 Victory</strong>.</p>
+</li>
+</ul>
+
+<h4 style="color:#ff6666;">Total Failure</h4>
+
+<ul>
+<li>
+<p>The party still reaches the junction, but arrives <strong>compromised</strong>:</p>
+
+<ul>
+<li>
+<p>Lose 2 days' rations <strong>and</strong> one PC has marsh-sickness.</p>
+</li>
+<li>
+<p>Grafvitnir’s agents know exactly where the party is. The next Pressure Check triggers automatically at 5+.</p>
+</li>
+<li>
+<p>No Victories earned. Director gains 3 Malice for the next encounter.</p>
+</li>
+</ul>
+
+</li>
+</ul>
+
+
+
+<h3>Montage 1 Failure Encounter: Chainwarden Patrol (Optional)</h3>
+
+<p><em>This encounter triggers on a Total Failure or at the Director's discretion after a Partial Success. A Chainwarden patrol has been tipped off by Ashwright informants or Pale Maw agents. They are waiting at a narrow bottleneck on the Herdweg approach—a stone bridge over a frozen ravine.</em></p>
+
+<div style="background:#2a2a3a; color:#e0d8c8; padding:14px 18px; margin:12px 0; border-radius:6px; border-left:4px solid #c4a03c; font-style:italic;">
+<p>The road narrows ahead. A stone bridge spans a frozen creek bed—old stone, Jötunfolk work, still solid after centuries. On the far side, five figures in grey cloaks wait in a loose line. Chain links glint on their tabards. The lead figure raises a gauntleted hand.</p>
+
+<p>“Halt. Toll authority, road inspection. Pap

@@ -1,0 +1,101 @@
+ure Ability, Main action</em><br>
+<em>Melee, Strike, Weapon</em> | Melee 2 | One creature or object</p>
+<ul>
+<li>≤11: 3 damage</li>
+<li>12–16: 5 damage; push 1 square</li>
+<li>17+: 7 damage; m&lt;2] prone</li>
+</ul>
+
+<p><strong>Warden's Resolve</strong> — <em>1 Malice, Maneuver</em><br>
+Effect: The militia and each ally adjacent to them gain +2 to stability until end of round.</p>
+
+<p><strong>Supernatural Insight</strong> — The militia ignores concealment if it's granted by a supernatural effect.</p>
+</div>
+
+<h4>Chainwarden Artillerist</h4>
+<div style="background:#f5f0e6; color:#2a2a2a; border-left:4px solid #b8860b; padding:12px 16px; margin:12px 0; border-radius:4px;">
+<h4 style="margin-top:0; color:#b8860b;">Chainwarden Artillerist</h4>
+
+<p><strong>Human, Humanoid, Chainwarden</strong><br>
+<strong>Level 1 Platoon Artillery</strong> | <strong>EV 6</strong></p>
+
+<p><strong>Size:</strong> 1M | <strong>Speed:</strong> 5 | <strong>Stamina:</strong> 20 | <strong>Stability:</strong> 0 | <strong>Free Strike:</strong> 4<br>
+<strong>Immunity:</strong> corruption 1, psychic 1</p>
+
+<p><strong>Might</strong> +0, <strong>Agility</strong> +2, <strong>Reason</strong> +1, <strong>Intuition</strong> +1, <strong>Presence</strong> +0</p>
+
+<p><strong>Arbalest</strong> ◆ 2d10 + 2 — <em>Signature Ability, Main action</em><br>
+<em>Ranged, Strike, Weapon</em> | Ranged 15 | One creature or object</p>
+<ul>
+<li>≤11: 6 damage</li>
+<li>12–16: 9 damage</li>
+<li>17+: 12 damage</li>
+<li>Effect: This ability ignores cover and concealment.</li>
+<li>3 Malice: This ability targets one additional creature or object.</li>
+</ul>
+
+<p><strong>Alchemical Bolt</strong> ◆ 2d10 + 2 — <em>3 Malice, Main action</em><br>
+<em>Area, Magic, Ranged</em> | 3 cube within 10 | Each creature in the area</p>
+<ul>
+<li>≤11: 4 damage; slowed (EoT)</li>
+<li>12–16: 6 damage; slowed (save ends)</li>
+<li>17+: 8 damage; restrained (save ends)</li>
+<li>Effect: The area becomes difficult terrain until the end of the encounter.</li>
+</ul>
+
+<p><strong>Supernatural Insight</strong> — The artillerist ignores concealment if it's granted by a supernatural effect.</p>
+</div>
+
+<h4>Chainwarden Enforcer</h4>
+<div style="background:#f5f0e6; color:#2a2a2a; border-left:4px solid #b8860b; padding:12px 16px; margin:12px 0; border-radius:4px;">
+<h4 style="margin-top:0; color:#b8860b;">Chainwarden Enforcer</h4>
+
+<p><strong>Human, Humanoid, Chainwarden</strong><br>
+<strong>Level 1 Platoon Defender</strong> | <strong>EV 6</strong></p>
+
+<p><strong>Size:</strong> 1M | <strong>Speed:</strong> 5 | <strong>Stamina:</strong> 40 | <strong>Stability:</strong> 1 | <strong>Free Strike:</strong> 4<br>
+<strong>Immunity:</strong> corruption 1, psychic 1</p>
+
+<p><strong>Might</strong> +2, <strong>Agility</strong> +0, <strong>Reason</strong> +1, <strong>Intuition</strong> +0, <strong>Presence</strong> +0</p>
+
+<p><strong>Chain-Mace</strong> ◆ 2d10 + 2 — <em>Signature Ability, Main action</em><br>
+<em>Melee, Strike, Weapon</em> | Melee 1 | One creature or object</p>
+<ul>
+<li>≤11: 5 damage</li>
+<li>12–16: 8 damage</li>
+<li>17+: 11 damage; m&lt;2] target has double bane on next power roll</li>
+<li>Effect: Target is taunted (EoT).</li>
+</ul>
+
+<p><strong>Stand Fast</strong> — Whenever an adjacent creature the enforcer has taunted deals damage to a creature other than the enforcer, the enforcer can make a free strike against them.</p>
+
+<p><strong>Overwhelm</strong> — An enemy who starts their turn adjacent to the enforcer can't shift.</p>
+
+<p><strong>Supernatural Insight</strong> — The enforcer ignores concealment if it's granted by a supernatural effect.</p>
+</div>
+
+<h4>Warden-Captain Halvard (Hard Variant)</h4>
+<div style="background:#f5f0e6; color:#2a2a2a; border-left:4px solid #b8860b; padding:12px 16px; margin:12px 0; border-radius:4px;">
+<h4 style="margin-top:0; color:#b8860b;">Warden-Captain Halvard</h4>
+
+<p><strong>Human, Humanoid, Chainwarden</strong><br>
+<strong>Level 1 Leader</strong> | <strong>EV 12</strong></p>
+
+<p><strong>Size:</strong> 1M | <strong>Speed:</strong> 5 | <strong>Stamina:</strong> 80 | <strong>Stability:</strong> 2 | <strong>Free Strike:</strong> 4<br>
+<strong>Immunity:</strong> corruption 2, psychic 2</p>
+
+<p><strong>Might</strong> +3, <strong>Agility</strong> +2, <strong>Reason</strong> +2, <strong>Intuition</strong> +0, <strong>Presence</strong> +2</p>
+
+<p><strong>Chain-Flail Sweep</strong> ◆ 2d10 + 3 — <em>Signature Ability, Main action</em><br>
+<em>Area, Weapon</em> | 1 burst | Each enemy in the area</p>
+<ul>
+<li>≤11: 3 damage; m&lt;1] slowed (save ends)</li>
+<li>12–16: 6 damage; m&lt;2] slowed (save ends)</li>
+<li>17+: 8 damage; m&lt;3] slowed (save ends)</li>
+<li>Effect: One ally within 10 squares can make a free strike.</li>
+<li>1 Malice: One ally within 10 squares can use their signature ability instead.</li>
+</ul>
+
+<p><strong>Warden's Warrant</strong> — <em>Maneuver</em><br>
+<em>Ranged</em> | Ranged 10 | One enemy<br>
+Effect: The target is marked until the start of the capt

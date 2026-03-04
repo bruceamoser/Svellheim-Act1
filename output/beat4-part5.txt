@@ -1,0 +1,90 @@
+ers.”</p>
+
+<p>The tone is wrong. This isn't bored routine. They were waiting for you.</p>
+</div>
+
+<div style="background:#f5f0e6; color:#2a2a2a; border-left:4px solid #4a4a4a; padding:12px 16px; margin:12px 0; border-radius:4px;">
+<h4 style="margin-top:0; color:#4a4a4a;">📝 GM Notes</h4>
+<p><strong>What's really happening:</strong> Warden-Captain Halvard received a raven from Ashwright's network with a description of the party. He's been told to detain them—alive, if possible, but he has latitude. Halvard is a pragmatist who has been bribed, not a zealot. If the fight goes badly, he'll try to retreat.</p>
+
+<p><strong>Negotiation possible:</strong> If the PCs try to talk their way out (medium Presence test), they can avoid combat—but only if they haven't already antagonised the Chainwardens at the toll. If they dealt with Eirik's toll peacefully, they get an edge on this test.</p>
+</div>
+
+<h4>Encounter Setup</h4>
+
+<p><strong>Encounter Difficulty:</strong> Moderate (EV 21 for 4 heroes)<br>
+<strong>Hard Variant:</strong> Add Warden-Captain Halvard (EV 33 total)</p>
+
+<p><strong>Standard Composition:</strong></p>
+<ul>
+<li>1 Chainwarden Enforcer (Platoon Defender)</li>
+<li>1 Chainwarden Artillerist (Platoon Artillery)</li>
+<li>2 Chainwarden Militia (Horde Brute)</li>
+<li>4 Chainwarden Guards (Minion Brute)</li>
+</ul>
+
+<p><strong>Hard Composition:</strong> Add Warden-Captain Halvard (Leader)</p>
+
+<p><strong>Terrain:</strong></p>
+<ul>
+<li><strong>Stone Bridge:</strong> 2 squares wide, 6 squares long. Railings provide half cover.</li>
+<li><strong>Frozen Ravine:</strong> 3 squares deep. Falling deals 10 damage. Climbing out requires a easy Might test.</li>
+<li><strong>Tree Line:</strong> The artillerist starts in the trees 10 squares back from the bridge, providing three-quarters cover.</li>
+</ul>
+
+<p><strong>Tactics:</strong></p>
+<ul>
+<li>The Enforcer holds the bridge chokepoint, taunting the first PC across.</li>
+<li>The Artillerist fires from the tree line, exploiting their range and cover-ignoring shots.</li>
+<li>The Militia flank around the ravine edges to hit squishier targets.</li>
+<li>The Guards swarm whoever crosses the bridge.</li>
+<li>If Halvard is present, he uses <strong>Warden's Warrant</strong> to mark the most dangerous PC, then sweeps with <strong>Chain-Flail Sweep</strong> when the party clusters.</li>
+</ul>
+
+<h4>Human Malice Features</h4>
+
+<p>These Chainwardens use the <strong>Human</strong> keyword and share the following Malice features:</p>
+<ul>
+<li><strong>Exploit Opening</strong> (3 Malice): Each Chainwarden gains an edge on the next ability they use this round. If the target has a condition, the edge is a double edge instead.</li>
+<li><strong>Alchemical Device</strong> (5 Malice): 3 burst within 10. Each non-human creature in the area takes 10 corruption damage.</li>
+<li><strong>Staying Power</strong> (7 Malice): Each non-minion Chainwarden regains Stamina equal to 5 × their level.</li>
+</ul>
+
+<h4>Chainwarden Guard</h4>
+<div style="background:#f5f0e6; color:#2a2a2a; border-left:4px solid #b8860b; padding:12px 16px; margin:12px 0; border-radius:4px;">
+<h4 style="margin-top:0; color:#b8860b;">Chainwarden Guard</h4>
+
+<p><strong>Human, Humanoid, Chainwarden</strong><br>
+<strong>Level 1 Minion Brute</strong> | <strong>EV 3 for four minions</strong></p>
+
+<p><strong>Size:</strong> 1M | <strong>Speed:</strong> 5 | <strong>Stamina:</strong> 5 | <strong>Stability:</strong> 0 | <strong>Free Strike:</strong> 2<br>
+<strong>Immunity:</strong> corruption 1, psychic 1<br>
+<strong>With Captain:</strong> +2 bonus to speed.</p>
+
+<p><strong>Might</strong> +2, <strong>Agility</strong> +0, <strong>Reason</strong> +0, <strong>Intuition</strong> +0, <strong>Presence</strong> +0</p>
+
+<p><strong>Halberd</strong> ◆ 2d10 + 2 — <em>Signature Ability, Main action</em><br>
+<em>Melee, Strike, Weapon</em> | Melee 2 | One creature or object per minion</p>
+<ul>
+<li>≤11: 2 damage</li>
+<li>12–16: 4 damage</li>
+<li>17+: 5 damage</li>
+<li>Effect: If the guard is flanked, they can make a free strike against a different target adjacent to them.</li>
+</ul>
+
+<p><strong>Supernatural Insight</strong> — The guard ignores concealment if it's granted by a supernatural effect.</p>
+</div>
+
+<h4>Chainwarden Militia</h4>
+<div style="background:#f5f0e6; color:#2a2a2a; border-left:4px solid #b8860b; padding:12px 16px; margin:12px 0; border-radius:4px;">
+<h4 style="margin-top:0; color:#b8860b;">Chainwarden Militia</h4>
+
+<p><strong>Human, Humanoid, Chainwarden</strong><br>
+<strong>Level 1 Horde Brute</strong> | <strong>EV 3</strong></p>
+
+<p><strong>Size:</strong> 1M | <strong>Speed:</strong> 5 | <strong>Stamina:</strong> 20 | <strong>Stability:</strong> 0 | <strong>Free Strike:</strong> 2<br>
+<strong>Immunity:</strong> corruption 1, psychic 1</p>
+
+<p><strong>Might</strong> +2, <strong>Agility</strong> +0, <strong>Reason</strong> +0, <strong>Intuition</strong> +0, <strong>Presence</strong> −1</p>
+
+<p><strong>Billhook</strong> ◆ 2d10 + 2 — <em>Signat

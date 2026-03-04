@@ -1,0 +1,98 @@
+ southwest toward Hrafnborg. Families, merchants, whole villages on the move. The PCs are heading <strong>northeast</strong> when everyone else is heading <strong>southwest</strong>. Questions will be asked.</p>
+</li>
+<li>
+<p><strong>Days 5–6 — The Chainwarden Toll at Greypass:</strong> Where the road enters the foothills of Midgard’s Shield, a fortified checkpoint controls passage. The Toll was built to manage trade; now it manages panic. Chainwardens in cold-bitten armour inspect papers, confiscate contraband, and demand tariffs that grow steeper every month. This is a negotiation encounter.</p>
+</li>
+<li>
+<p><strong>Days 6–8 — Midgard’s Shield Foothills:</strong> Rocky, wind-scoured ground. The treeline thins. Abandoned crofts and shepherds' shelters dot the landscape—some still have walls, none have roofs. The weather turns from "miserable" to "lethal." The road climbs steadily. The air thins. Storm-fronts roll in without warning.</p>
+</li>
+<li>
+<p><strong>Days 8–9 — The Mountain Road:</strong> The ancient road that climbs into the Titan’s Stair proper. Built by giants, if the stories are true—the flagstones are enormous, cracked but enduring. Avalanche debris, rockfalls, and ice-slick switchbacks make the ascent exhausting. A partially collapsed stone bridge spans a gorge halfway up.</p>
+</li>
+<li>
+<p><strong>Day 10 — Titan’s Stair &amp; Descent:</strong> The final push: a narrow ice-choked switchback pass through the highest point of Midgard’s Shield. The wind is a physical force. The descent on the far side is steep but windless—a blessed relief—and Stairwatch’s lights are visible from the top.</p>
+</li>
+</ul>
+
+<h3>What the PCs Notice</h3>
+
+<p>As they travel, seed these observations:</p>
+
+<ul>
+<li>
+<p>The Ever-Ember’s warmth faded <strong>fast</strong> once they left Hrafnborg’s radius. The cold deepens with every mile.</p>
+</li>
+<li>
+<p>Roadside shrines to Yggdrasil appear every few miles—small cairns with hollow centres where flame-offerings should sit. Every single one is extinguished. Some have been for weeks.</p>
+</li>
+<li>
+<p>Wildlife is wrong: no birds, no hares, no foxes. The only tracks are old. Something has driven everything south or underground.</p>
+</li>
+<li>
+<p>The people they pass on the road don’t make eye contact. They walk fast, heads down, clutching whatever they can carry. No one stops to talk.</p>
+</li>
+<li>
+<p>The sky doesn’t change colour. Dawn and dusk are the same shade of iron-grey. Only the light’s intensity tells you what time it is.</p>
+</li>
+<li>
+<p>At one point, they pass a farmstead. No smoke from the chimney. The door is open. Snow has drifted inside. (If they investigate: the family left in haste. Food is still on the table—frozen solid.)</p>
+</li>
+</ul>
+
+<hr>
+
+<h2>Part 3: Montage Test 1 — The Coastal Road</h2>
+
+<p><strong>Covers Days 1–4: Hrafnborg → Lantern Road → Frostfen Marshes → Refugee Road junction.</strong></p>
+
+<p><strong>Difficulty:</strong> Hard<br>
+<strong>Party Size Adjustment (4 heroes):</strong></p>
+
+<table style="width:100%; border-collapse:collapse; margin:12px 0; color:#2a2a2a; background:#faf8f2;">
+<thead>
+<tr style="background:#e8e0d0; color:#2a2a2a;">
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Difficulty</th>
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Success Limit</th>
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Failure Limit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;"><strong>Hard (adjusted)</strong></td>
+<td style="padding:6px 10px; color:#2a2a2a;"><strong>6</strong></td>
+<td style="padding:6px 10px; color:#2a2a2a;"><strong>2</strong></td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Rounds:</strong> 2 montage test rounds (each hero acts once per round; 8 total individual tests).</p>
+
+<p><strong>Rules Reminder:</strong></p>
+
+<ul>
+<li>
+<p>Each hero uses a <strong>different skill</strong> for each test (no repeating skills across the montage).</p>
+</li>
+<li>
+<p>Skills grant +2 to the test (not an edge). Edges and banes apply as normal.</p>
+</li>
+<li>
+<p>If a hero has a clever non-test action (using an item, ability, or resource), it can earn automatic successes at your discretion.</p>
+</li>
+<li>
+<p>A hero can <strong>assist</strong> another hero’s test instead of making their own. The assisting hero must use a different skill than the lead. Roll a power roll: tier 1 = bane on lead’s test; tier 2 = edge; tier 3 = double edge.</p>
+</li>
+</ul>
+
+<h3>Round 1 Sample Tests</h3>
+<table style="width:100%; border-collapse:collapse; margin:12px 0; color:#2a2a2a; background:#faf8f2;">
+<thead>
+<tr style="background:#e8e0d0; color:#2a2a2a;">
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Challenge</th>
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Characteristic</th>
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;">Navigate the failing Lantern Roa

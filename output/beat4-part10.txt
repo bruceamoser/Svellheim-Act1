@@ -1,0 +1,97 @@
+ies:</strong></p>
+
+<ul>
+<li>
+<p><strong>2 Frost-Draugr</strong> (Level 2 Platoon Brute, EV 8 each)</p>
+</li>
+<li>
+<p><strong>4 Grave-Wisps</strong> (Level 1 Minion Hexer, EV 3 for the squad)</p>
+</li>
+<li>
+<p><strong>Total EV:</strong> 19 (Standard for 4 Level 1 heroes)</p>
+</li>
+</ul>
+
+<h4>Frost-Draugr</h4>
+<div style="background:#f5f0e6; color:#2a2a2a; border-left:4px solid #b8860b; padding:12px 16px; margin:12px 0; border-radius:4px;">
+<h4 style="margin-top:0; color:#b8860b;">Frost-Draugr</h4>
+
+<p><strong>Undead, Humanoid</strong><br>
+<strong>Level 2 Platoon Brute</strong> | <strong>EV 8</strong></p>
+
+<p><strong>Size:</strong> 1M | <strong>Speed:</strong> 5 | <strong>Stamina:</strong> 50 | <strong>Stability:</strong> 2 | <strong>Free Strike:</strong> 5<br>
+<strong>Immunity:</strong> cold 2, poison | <strong>Weakness:</strong> fire 5</p>
+
+<p><strong>Might</strong> +2, <strong>Agility</strong> +0, <strong>Reason</strong> −3, <strong>Intuition</strong> +1, <strong>Presence</strong> −2</p>
+
+<p><strong>Frozen Grip</strong> ◆ 2d10 + 2 — <em>Signature Ability, Main action</em><br>
+<em>Melee, Strike, Weapon</em> | Melee 1 | One creature or object</p>
+
+<ul>
+<li>≤11: 6 cold damage</li>
+<li>12–16: 9 cold damage; m&lt;2] slowed (EoT)</li>
+<li>17+: 12 cold damage; m&lt;2] slowed (save ends)</li>
+</ul>
+
+<p><strong>Relentless Advance</strong> — <em>Triggered action</em><br>
+Trigger: The Frost-Draugr is force moved.<br>
+Effect: After the forced movement resolves, the Frost-Draugr shifts 2 squares toward the nearest enemy.</p>
+
+<p><strong>Cold Aura</strong> — At the start of the Frost-Draugr's turn, each enemy adjacent to the Frost-Draugr takes 2 cold damage.</p>
+
+<p><strong>Undead Resilience</strong> — The Frost-Draugr is immune to the frightened and sleeping conditions.</p>
+
+<p><em>Director Notes: Frost-Draugr are slow, powerful, and inevitable. They walk toward the nearest warm body and hit it until it stops being warm. Their Cold Aura punishes melee engagement—the smart play is ranged attacks and kiting. But the Grave-Wisps are designed to make kiting difficult.</em></p>
+</div>
+
+<h4>Grave-Wisp</h4>
+<div style="background:#f5f0e6; color:#2a2a2a; border-left:4px solid #b8860b; padding:12px 16px; margin:12px 0; border-radius:4px;">
+<h4 style="margin-top:0; color:#b8860b;">Grave-Wisp</h4>
+
+<p><strong>Undead, Spirit</strong><br>
+<strong>Level 1 Minion Hexer</strong> | <strong>EV 3 for four minions</strong></p>
+
+<p><strong>Size:</strong> 1S | <strong>Speed:</strong> 6 | <strong>Stamina:</strong> 3 | <strong>Stability:</strong> 0 | <strong>Free Strike:</strong> 1<br>
+<strong>Immunity:</strong> cold 1, poison | <strong>Weakness:</strong> fire 3<br>
+<strong>Movement:</strong> Fly | <strong>With Captain:</strong> The wisp doesn't provoke opportunity attacks.</p>
+
+<p><strong>Might</strong> −2, <strong>Agility</strong> +2, <strong>Reason</strong> −3, <strong>Intuition</strong> +2, <strong>Presence</strong> +0</p>
+
+<p><strong>Cold Touch</strong> ◆ 2d10 + 2 — <em>Signature Ability, Main action</em><br>
+<em>Magic, Melee, Strike</em> | Melee 1 | One creature per minion</p>
+
+<ul>
+<li>≤11: 1 cold damage</li>
+<li>12–16: 2 cold damage; target can't shift (EoT)</li>
+<li>17+: 3 cold damage; target can't shift (EoT)</li>
+</ul>
+
+<p><strong>Lure</strong> — <em>Maneuver</em><br>
+<em>Ranged</em> | Ranged 5 | One enemy<br>
+p&lt;0] the target is pulled 2 squares toward the wisp. The target sees the wisp as a distant campfire, a familiar face, or a beckoning lantern.</p>
+
+<p><strong>Incorporeal</strong> — The wisp takes half damage from weapon attacks that don't have a magic keyword.</p>
+
+<p><em>Director Notes: Wisps exist to pin targets in place for the Draugr. Lure pulls PCs into Cold Aura range; Cold Touch locks them there. Kill the wisps first or suffer the Draugr's patient, crushing advance.</em></p>
+</div>
+
+<h3>Terrain Features</h3>
+
+<ul>
+<li>
+<p><strong>Campfire:</strong> Provides light in a 4-square radius. Any undead that starts its turn within 2 squares of the fire takes 3 fire damage. The PCs' fire is both weapon and vulnerability—it draws the dead, but it also hurts them.</p>
+</li>
+<li>
+<p><strong>Collapsed Stone Walls:</strong> Provide half cover and block movement. Can be toppled (easy Might test) to create difficult terrain.</p>
+</li>
+<li>
+<p><strong>Scree Slope:</strong> The hillside above the camp is loose stone. A creature pushed into the scree must make an easy Agility test or fall prone and slide 2 squares downhill.</p>
+</li>
+<li>
+<p><strong>Darkness Beyond Firelight:</strong> Creatures outside the campfire’s light radius have concealment. The wisps exploit this—they hover at the edge of visibility.</p>
+</li>
+</ul>
+
+<h3>Aftermath</h3>
+<div style="background:#2a2a3a; color:#e0d8c8; padding:14px 18px; margin:12px 0; border-radius:6px; border-left:4px solid #c4a03c; font-style:italic;">
+<p>The draugr fall—one collapsing like a puppet with cut strings, the other crumbling into hoarfrost that melts in the fire’s heat. The wisps sca

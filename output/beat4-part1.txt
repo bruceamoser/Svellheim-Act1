@@ -1,0 +1,72 @@
+<p><strong>Level:</strong> 1<br>
+<strong>Duration:</strong> 1–2 sessions<br>
+<strong>Location:</strong> Hrafnborg (departure) → Lantern Road → Frostfen Marshes → Midgard’s Shield → Titan’s Stair → Stairwatch<br>
+<strong>Key NPCs:</strong> Warden-Sergeant Eirik Greyhand (Greypass), Bryn Ketilsdottir (Hollow Waystation)<br>
+<strong>Type:</strong> Two Hard Montage Tests, combat encounter, negotiation encounter, narrative interludes<br>
+<strong>Tone:</strong> Isolation, hardship, dwindling warmth, the road is the enemy</p>
+
+<hr>
+
+<h2>Overview</h2>
+
+<p>The PCs slip out of Hrafnborg before dawn with forged papers and the King’s supplies. Ahead: <strong>two hundred miles</strong> of failing roads, frozen marshland, Chainwarden checkpoints, mountain passes, and Fimbulwinter storms—all while maintaining the secrecy of their mission.</p>
+
+<p>This is a long, dangerous journey. Travel rates vary with terrain: 24 miles/day on maintained roads, 18 miles/day through hindered ground (marshes, foothills), and 12 miles/day in severe mountain passes—averaging ~20 miles/day across the full route. The trek takes <strong>8–10 days</strong>. The beat is divided into two montage tests separated by encounters, building a rhythm of endurance, danger, and discovery. By the time the PCs reach Stairwatch, they should feel every mile.</p>
+
+<hr>
+
+<h2>Part 1: The Departure</h2>
+
+<p><em>Sólmánuður 6th. Dawn.</em></p>
+
+<div style="background:#2a2a3a; color:#e0d8c8; padding:14px 18px; margin:12px 0; border-radius:6px; border-left:4px solid #c4a03c; font-style:italic;">
+<p>You leave Hrafnborg before dawn, slipping through the Chainwardens' outer checkpoints with forged merchants' papers and the taste of salt pork still on your tongues. The Lantern Road stretches north into a world of grey ice and stunted pines.</p>
+
+<p>The King’s instructions are clear: reach Stairwatch. Find Lew Tosferd. Trust no one.</p>
+
+<p>The cold doesn’t care about instructions.</p>
+</div>
+
+<p>As the PCs pass through the outer checkpoint:</p>
+
+<ul>
+<li>
+<p>The Chainwarden on duty is half-asleep and waves them through with barely a glance. (This changes if the party dawdled or made noise in the King’s halls.)</p>
+</li>
+<li>
+<p>The road beyond the walls is immediately different: the stones are cracked, weeds push through ice, and the mile-markers are buried or missing.</p>
+</li>
+<li>
+<p>The sound of the city fades within minutes. The only sounds are wind, their own breathing, and the crunch of frost under boots.</p>
+</li>
+</ul>
+
+<div style="background:#f5f0e6; color:#2a2a2a; border-left:4px solid #4a4a4a; padding:12px 16px; margin:12px 0; border-radius:4px;">
+<h4 style="margin-top:0; color:#4a4a4a;">📝 GM Notes: Leaving Hrafnborg</h4>
+<p>As the PCs pass through the outer checkpoint, note that Dreyfus is <strong>not</strong> here—he is back in Harald’s chambers. But every detail of the PCs' mission, destination, and route was spoken aloud in Harald’s sitting room while the hound listened.</p>
+
+<p>Within hours of the PCs' departure, that intelligence begins flowing through Grafvitnir’s Wyrd-channels to agents in the field. The PCs don’t know this yet.</p>
+</div>
+<hr>
+
+<h2>Part 2: Journey Context</h2>
+
+<p>Before beginning the first montage test, set the scene with a full description of the route:</p>
+
+<p><strong>Journey:</strong> Hrafnborg → Lantern Road north → Frostfen Marshes → Midgard’s Shield foothills → Chainwarden Toll at Greypass → Mountain Road → Titan’s Stair → Stairwatch descent<br>
+<strong>Distance:</strong> ~200 miles<br>
+<strong>Duration:</strong> ~8–10 days through Fimbulwinter terrain<br>
+<strong>Calendar:</strong> Departure Sólmánuður 6th; estimated arrival Sólmánuður 15th–16th<br>
+<strong>Terrain:</strong> Coastal Belt (frozen farmland) → Marshlands → Interior Belt boundary (Midgard’s Shield range)</p>
+
+<h3>The Route</h3>
+
+<ul>
+<li>
+<p><strong>Days 1–2 — The Lantern Road:</strong> Once a well-maintained highway connecting Hrafnborg to the interior towns. Now it’s a ruin: mile-markers buried, road-signs stolen for firewood, sections impassable with snow or debris. Chainwarden patrols tax travellers in Heat (fuel rations) or Word (travel permits). The land is flat, frozen farmland—open sky, cutting wind, and the Ever-Ember’s warmth fading with every mile.</p>
+</li>
+<li>
+<p><strong>Day 3 — The Frostfen Marshes:</strong> Where the Lantern Road crosses the old fenlands, the terrain turns treacherous. The marshes haven’t frozen solid—the ice is thin in patches, the reeds hide pockets of black water, and the footcauseway is half-collapsed. The road narrows to a single crumbling path through frozen bog. Something about the Frostfen feels <strong>wrong</strong>—the cold here is different, wetter, heavier, as if the land itself is exhaling.</p>
+</li>
+<li>
+<p><strong>Days 4–5 — The Refugee Road:</strong> Beyond the Frostfen, the Lantern Road meets the Herdweg—the old drovers' highway running east from the Interior Belt. The intersection is choked with refugees fleeing

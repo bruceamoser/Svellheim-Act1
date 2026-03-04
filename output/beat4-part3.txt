@@ -1,0 +1,70 @@
+d</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Reason</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Read buried markers, recall old maps, plot detours around collapsed sections. The road splits and rejoins—choosing the wrong fork adds hours.</td>
+</tr>
+<tr style="background:#f5f0e6; color:#2a2a2a;">
+<td style="padding:6px 10px; color:#2a2a2a;">Endure the cold and ration supplies</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Might</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Resist frostbite, carry gear through snowdrifts, ford frozen streams. The supplies must last ten days, not three.</td>
+</tr>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;">Avoid or deceive early Chainwarden patrols</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Presence</td>
+<td style="padding:6px 10px; color:#2a2a2a;">A roving patrol stops the party. Talk past them with the forged papers; deflect suspicion about heading northeast when everyone else goes southwest.</td>
+</tr>
+<tr style="background:#f5f0e6; color:#2a2a2a;">
+<td style="padding:6px 10px; color:#2a2a2a;">Scout for safe passage through the Frostfen</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Intuition</td>
+<td style="padding:6px 10px; color:#2a2a2a;">The marsh-ice is unreliable. Find the old causeway stones—buried under frost but still solid—or risk falling through into black water.</td>
+</tr>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;">Navigate the Frostfen at night</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Agility</td>
+<td style="padding:6px 10px; color:#2a2a2a;">The party must cross the worst section of marsh after dark (the ice is harder at night). Balance on ice-slick causeway stones, leap frozen tussocks, avoid thin spots.</td>
+</tr>
+<tr style="background:#f5f0e6; color:#2a2a2a;">
+<td style="padding:6px 10px; color:#2a2a2a;">Read weather signs to avoid a squall</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Intuition</td>
+<td style="padding:6px 10px; color:#2a2a2a;">A Fimbulwinter squall can drop visibility to arm’s length in minutes. Reading the cloud-patterns and wind-shift gives the party time to shelter before it hits.</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Round 1 Interlude: The Extinguished Shrine</h3>
+<div style="background:#2a2a3a; color:#e0d8c8; padding:14px 18px; margin:12px 0; border-radius:6px; border-left:4px solid #c4a03c; font-style:italic;">
+<p>By the roadside, a cairn of stacked stones stands waist-high. Its centre is hollow—a bowl-shaped depression where a flame should burn. The ash is cold. Dead wildflowers, frost-brittle, lie scattered around the base. Someone left offerings. No one came to tend the fire.</p>
+
+<p>The cairn’s keystone is carved with a single runic word. It reads: <em>Remember.</em></p>
+</div>
+
+<p>A moment for the PCs to reflect on what the Ever-Embers mean. If anyone makes an offering (even just a breath warmed into their hands and placed in the basin), the cairn’s keystone warms—just for a moment—then goes cold again. Yggdrasil is listening, but too weak to answer.</p>
+
+<h3>Round 2 Sample Tests</h3>
+<table style="width:100%; border-collapse:collapse; margin:12px 0; color:#2a2a2a; background:#faf8f2;">
+<thead>
+<tr style="background:#e8e0d0; color:#2a2a2a;">
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Challenge</th>
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Characteristic</th>
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;">Find shelter in the Frostfen margins</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Reason</td>
+<td style="padding:6px 10px; color:#2a2a2a;">The flat marshland offers no natural shelter. Locate an old peat-cutter’s hut, an overturned barge, or a reed-bank thick enough to break the wind.</td>
+</tr>
+<tr style="background:#f5f0e6; color:#2a2a2a;">
+<td style="padding:6px 10px; color:#2a2a2a;">Cross the Herdweg junction without attention</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Presence / Agility</td>
+<td style="padding:6px 10px; color:#2a2a2a;">The junction is crowded with refugee columns. The PCs need to cross <strong>through</strong> the flow heading northeast without drawing questions. Why are young, healthy travellers heading <strong>toward</strong> the danger?</td>
+</tr>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;">Resist marsh-sickness</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Might</td>
+<td style="padding:6px 10px; color:#2a2a2a;">The Frostfen’s air carries something foul—not disease, exactly, but a heaviness in the lungs. A character who fails wakes the next morning with a rattling cough and bloodshot eyes. (−1 to Might tests until a rest.)</td>
+</tr>
+<tr style="background:#f5f0e6; color:#2a2a2a;">
+<td style="padding:6px 10px; color:#2a2a2a;">Avoid refugee columns</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Presence / Agility</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Families fleeing southwest

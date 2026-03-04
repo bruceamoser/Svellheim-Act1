@@ -1,0 +1,92 @@
+tter like sparks and blink out.</p>
+
+<p>Silence. The fire crackles. The wind moans through the broken walls.</p>
+
+<p>Nobody sleeps well after that.</p>
+</div>
+
+<p>If the PCs examine the draugr remains (easy Reason test): these aren’t recent dead. They’re <strong>old</strong>—centuries old, based on the corroded armour fragments and the archaic brooch-style. Whatever is raising the dead isn’t just waking recent corpses. It’s reaching <strong>deep</strong>.</p>
+
+<hr>
+
+<h2>Part 8: Point of Interest — Kross-stead</h2>
+
+<p>Place this on the mountain road, roughly Day 7–8.</p>
+
+<div style="background:#2a2a3a; color:#e0d8c8; padding:14px 18px; margin:12px 0; border-radius:6px; border-left:4px solid #c4a03c; font-style:italic;">
+<p>The road passes through what was once a mining settlement—a dozen stone buildings clustered around a shaft-head, with a crude smelter and a Chainwarden outpost. The outpost flag still flies, but there’s no one here.</p>
+
+<p>The shaft-head is open. Warm air rises from the opening.</p>
+</div>
+
+<p>Kross-stead was a silver mine. The miners evacuated three weeks ago when the temperature in the lower shafts began <strong>rising</strong>—slowly, inexplicably. The Chainwarden garrison followed.</p>
+
+<ul>
+<li>
+<p>If the PCs investigate the shaft (not recommended, but PCs are PCs): warm, sulphurous air. The walls of the shaft are veined with something that isn’t silver—a dark, root-like growth that pulses faintly with amber light. This is connected to Yggdrasil’s root system, though the PCs can’t know that yet. Anyone who touches the growth feels a vibration—like a heartbeat, very slow, very deep.</p>
+</li>
+<li>
+<p>If the PCs search the buildings: 1 day’s rations, a miner’s pickaxe (decent weapon), and a Chainwarden logbook. The last entry reads: <em>"The walls of the lower gallery are warm to the touch. Supervisor Alrek says it’s geothermal. Alrek is an idiot. Trees don’t grow underground."</em></p>
+</li>
+<li>
+<p>If the PCs take rope, pitons, or climbing gear from the mining stores: +1 edge on one Agility test at Titan’s Stair.</p>
+</li>
+</ul>
+
+<hr>
+
+<h2>Part 9: Montage Test 2 — Midgard’s Shield &amp; Titan’s Stair</h2>
+
+<p><strong>Covers Days 5–10: Chainwarden Toll → Mountain Road → Titan’s Stair → Descent to Stairwatch.</strong></p>
+
+<p><strong>Difficulty:</strong> Hard<br>
+<strong>Party Size Adjustment (4 heroes):</strong></p>
+
+<table style="width:100%; border-collapse:collapse; margin:12px 0; color:#2a2a2a; background:#faf8f2;">
+<thead>
+<tr style="background:#e8e0d0; color:#2a2a2a;">
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Difficulty</th>
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Success Limit</th>
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Failure Limit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;"><strong>Hard (adjusted)</strong></td>
+<td style="padding:6px 10px; color:#2a2a2a;"><strong>6</strong></td>
+<td style="padding:6px 10px; color:#2a2a2a;"><strong>2</strong></td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Rounds:</strong> 2 montage test rounds.</p>
+
+<h3>Round 3 Sample Tests</h3>
+<table style="width:100%; border-collapse:collapse; margin:12px 0; color:#2a2a2a; background:#faf8f2;">
+<thead>
+<tr style="background:#e8e0d0; color:#2a2a2a;">
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Challenge</th>
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Characteristic</th>
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;">Navigate around the rockfalls</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Reason</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Eirik warned about two rockfalls. The first is minor (scramble over rubble). The second, near Kross-stead, requires a full detour through an unmarked goat-track.</td>
+</tr>
+<tr style="background:#f5f0e6; color:#2a2a2a;">
+<td style="padding:6px 10px; color:#2a2a2a;">Endure altitude and thinning air</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Might</td>
+<td style="padding:6px 10px; color:#2a2a2a;">The mountains are high and the air is thin. Characters not accustomed to altitude suffer headaches, nosebleeds, and shortness of breath. Pace management matters.</td>
+</tr>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;">Cross the Gorge Bridge</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Agility</td>
+<td style="padding:6px 10px; color:#2a2a2a;">The stone bridge spans a gorge 60 feet deep. The western footing has shifted—the bridge tilts slightly, and stones crumble with each step. Cross quickly, test balance, or find an anchor-line solution.</td>
+</tr>
+<tr style="background:#f5f0e6; color:#2a2a2a;">
+<td style="padding:6px 10px; color:#2a2a2a;">Find shelter from a mountain storm</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Intuition</td>
+<td style="padding:6px 10px; color:#2a2a2a;">A storm sweeps in without warning. Whit

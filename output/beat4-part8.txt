@@ -1,0 +1,95 @@
+s are kind to her, they earn a toll-token and a contact who may reappear in Act 2 (she can reach Hrafnborg and serve the King). If they ignore her, she’s just another ghost on the road.</p>
+</div>
+<hr>
+
+<h2>Part 5: Negotiation Encounter — The Chainwarden Toll at Greypass</h2>
+
+<p><em>Approximately Sólmánuður 10th. Day 5 of the journey.</em></p>
+
+<h3>Context</h3>
+
+<p>Where the Lantern Road enters the foothills of Midgard’s Shield, the Chainwardens maintain a fortified toll crossing called <strong>Greypass</strong>. It controls the only maintained road through the lower mountains. The toll was built to manage trade caravans; now it manages desperation.</p>
+
+<div style="background:#2a2a3a; color:#e0d8c8; padding:14px 18px; margin:12px 0; border-radius:6px; border-left:4px solid #c4a03c; font-style:italic;">
+<p>The road narrows between two bluffs of dark stone. A wall of stacked timber and iron bars blocks the path—not a military fortification, but close enough. A gate. A guardhouse. A flag bearing the Chainwarden sigil: a broken chain, re-forged.</p>
+
+<p>Two wardens stand at the gate, wrapped in furs over mail. One holds a ledger. The other holds a spear.</p>
+
+<p>"Papers," says the one with the ledger. It is not a request.</p>
+</div>
+
+<h3>The Encounter</h3>
+
+<p>This is a <strong>Moderate Negotiation</strong> with the toll commander, <strong>Warden-Sergeant Eirik Greyhand</strong>.</p>
+
+<table style="width:100%; border-collapse:collapse; margin:12px 0; color:#2a2a2a; background:#faf8f2;">
+<thead>
+<tr style="background:#e8e0d0; color:#2a2a2a;">
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Interest</th>
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Patience</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;"><strong>5</strong></td>
+<td style="padding:6px 10px; color:#2a2a2a;"><strong>4</strong></td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Motivations:</strong></p>
+
+<ul>
+<li>
+<p><strong>Eirik wants order.</strong> He is not corrupt—he is <strong>exhausted</strong>. The toll is underfunded, understaffed, and overwhelmed. He wants travellers to follow procedure so he can maintain the fiction that the system works.</p>
+</li>
+<li>
+<p><strong>Eirik wants supplies.</strong> The toll garrison hasn’t received a resupply in weeks. Heat (fuel, rations) is more valuable to him than coin.</p>
+</li>
+<li>
+<p><strong>Eirik wants to go home.</strong> He has a family in Hrafnborg. He hasn’t heard from them in a month. Any news—even bad news—is worth something.</p>
+</li>
+</ul>
+
+<p><strong>What the PCs Want:</strong></p>
+
+<ul>
+<li>
+<p>Passage through the toll without their cover being blown.</p>
+</li>
+<li>
+<p>Ideally, intelligence about the road ahead (mountain conditions, bandit activity, undead sightings).</p>
+</li>
+<li>
+<p>If they have Bryn’s toll-token, they can present it for automatic free passage for one person. The rest must still negotiate.</p>
+</li>
+</ul>
+
+<h3>Negotiation Beats</h3>
+<table style="width:100%; border-collapse:collapse; margin:12px 0; color:#2a2a2a; background:#faf8f2;">
+<thead>
+<tr style="background:#e8e0d0; color:#2a2a2a;">
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Argument</th>
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;">Present the forged papers (Presence)</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Eirik inspects them. They’re good forgeries. Tier 2+: he’s satisfied. Tier 1: he notices the seal is slightly wrong—"This isn’t the standard merchant cipher. Where did you get these?" (+1 Interest, as he becomes suspicious but also curious.)</td>
+</tr>
+<tr style="background:#f5f0e6; color:#2a2a2a;">
+<td style="padding:6px 10px; color:#2a2a2a;">Offer rations or fuel (Heat currency)</td>
+<td style="padding:6px 10px; color:#2a2a2a;">This speaks directly to Eirik’s need. Tier 2+: earns 2 Interest immediately. Eirik waves them through and offers road intelligence as thanks.</td>
+</tr>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;">Share news of Hrafnborg (Presence)</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Tell Eirik the city still stands, the Ever-Ember still burns, and the King is active. Tier 2+: Eirik’s shoulders drop with relief. +1 Interest. He becomes notably friendlier.</td>
+</tr>
+<tr style="background:#f5f0e6; color:#2a2a2a;">
+<td style="padding:6px 10px; color:#2a2a2a;">Bluff a military connection (Presence)</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Claim to be on Chainwarden business. Tier 3 only: Eirik buys it and provides an escort for the next 5 miles. Tier 1–2: Eirik knows every Warden in the district. He doesn’t know <strong>you</strong>. −1 Patience.</td>
+</tr>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;">Threaten or intimidate (Might)</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Catastrophic. Eirik has 8 wardens and a fortified position. −2 Patience. If Patience hits 0 through threats, th

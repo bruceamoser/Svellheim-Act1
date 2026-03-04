@@ -1,0 +1,99 @@
+rong> Moderate (EV 21 for 4 heroes)</p>
+
+<p><strong>Composition:</strong></p>
+<ul>
+<li>1 Goblin Monarch (Leader, EV 12)</li>
+<li>2 Goblin Warriors (Horde Harrier, EV 3 each)</li>
+<li>4 Goblin Runners (Minion Harrier, EV 3 for the squad)</li>
+</ul>
+
+<p><strong>Terrain:</strong></p>
+<ul>
+<li><strong>Barricade:</strong> Provides three-quarters cover. Can be dismantled (easy Might test) or climbed over (easy Agility test, costs 2 extra movement).</li>
+<li><strong>Cliff Walls:</strong> The goblins start on the walls above (Climb movement). 3 squares up. Creatures without Climb must make a easy Might test to scale.</li>
+<li><strong>Scree Slope:</strong> Difficult terrain. A creature pushed through scree must make an easy Agility test or fall prone.</li>
+<li><strong>Narrow Path:</strong> Only 3 squares wide between the cliff face and the drop. Limits flanking opportunities for larger creatures.</li>
+</ul>
+
+<p><strong>Tactics:</strong></p>
+<ul>
+<li>The Goblin Runners charge from the cliff walls, exploiting Crafty to avoid opportunity attacks.</li>
+<li>The Goblin Warriors use Spear Charge for hit-and-run tactics, retreating to high ground.</li>
+<li>The Goblin Monarch hangs back on the boulder, using Handaxe on two targets at range and <em>Get in Here!</em> to summon more Runners.</li>
+<li>If a PC is isolated, the Monarch uses Meat Shield to redirect attacks to nearby Runners.</li>
+<li>When pressed, the Monarch triggers <em>Kill!</em> (VA3) to punish clustering.</li>
+</ul>
+
+<h4>Goblin Malice Features</h4>
+
+<ul>
+<li><strong>Goblin Mode</strong> (3 Malice): Each goblin shifts up to 3 squares. Until end of round, goblins have double edge on power rolls against creatures larger than them.</li>
+<li><strong>Tiny Stabs</strong> (5 Malice): 10 burst. Each enemy in the area takes 3 damage for each goblin adjacent to them.</li>
+<li><strong>Swamp Stink</strong> (7 Malice): 10 burst. Each enemy must succeed on an easy Intuition test or become dazed (save ends). Each goblin then shifts up to 3 squares.</li>
+</ul>
+
+<h4>Goblin Runner</h4>
+<div style="background:#f5f0e6; color:#2a2a2a; border-left:4px solid #b8860b; padding:12px 16px; margin:12px 0; border-radius:4px;">
+<h4 style="margin-top:0; color:#b8860b;">Goblin Runner</h4>
+
+<p><strong>Goblin, Humanoid</strong><br>
+<strong>Level 1 Minion Harrier</strong> | <strong>EV 3 for four minions</strong></p>
+
+<p><strong>Size:</strong> 1S | <strong>Speed:</strong> 6 | <strong>Stamina:</strong> 4 | <strong>Stability:</strong> 0 | <strong>Free Strike:</strong> 1<br>
+<strong>Movement:</strong> Climb | <strong>With Captain:</strong> Gain an edge on strikes.</p>
+
+<p><strong>Might</strong> −2, <strong>Agility</strong> +2, <strong>Reason</strong> +0, <strong>Intuition</strong> +0, <strong>Presence</strong> −1</p>
+
+<p><strong>Club Charge</strong> ◆ 2d10 + 2 — <em>Signature Ability, Main action</em><br>
+<em>Charge, Melee, Strike, Weapon</em> | Melee 1 | One creature or object per minion</p>
+<ul>
+<li>≤11: 1 damage</li>
+<li>12–16: 2 damage</li>
+<li>17+: 3 damage</li>
+</ul>
+
+<p><strong>Crafty</strong> — The runner doesn't provoke opportunity attacks by moving.</p>
+</div>
+
+<h4>Goblin Warrior</h4>
+<div style="background:#f5f0e6; color:#2a2a2a; border-left:4px solid #b8860b; padding:12px 16px; margin:12px 0; border-radius:4px;">
+<h4 style="margin-top:0; color:#b8860b;">Goblin Warrior</h4>
+
+<p><strong>Goblin, Humanoid</strong><br>
+<strong>Level 1 Horde Harrier</strong> | <strong>EV 3</strong></p>
+
+<p><strong>Size:</strong> 1S | <strong>Speed:</strong> 6 | <strong>Stamina:</strong> 15 | <strong>Stability:</strong> 0 | <strong>Free Strike:</strong> 1<br>
+<strong>Movement:</strong> Climb</p>
+
+<p><strong>Might</strong> −2, <strong>Agility</strong> +2, <strong>Reason</strong> +0, <strong>Intuition</strong> +0, <strong>Presence</strong> −1</p>
+
+<p><strong>Spear Charge</strong> ◆ 2d10 + 2 — <em>Signature Ability, Main action</em><br>
+<em>Charge, Melee, Strike, Weapon</em> | Melee 1 | One creature or object</p>
+<ul>
+<li>≤11: 3 damage</li>
+<li>12–16: 4 damage</li>
+<li>17+: 5 damage</li>
+</ul>
+
+<p><strong>Bury the Point</strong> ◆ 2d10 + 2 — <em>2 Malice, Main action</em><br>
+<em>Melee, Strike, Weapon</em> | Melee 1 | One creature</p>
+<ul>
+<li>≤11: 5 damage; m&lt;0] bleeding (save ends)</li>
+<li>12–16: 6 damage; m&lt;1] bleeding (save ends)</li>
+<li>17+: 7 damage; m&lt;2] bleeding (save ends)</li>
+</ul>
+
+<p><strong>Crafty</strong> — The warrior doesn't provoke opportunity attacks by moving.</p>
+</div>
+
+<h4>Goblin Monarch</h4>
+<div style="background:#f5f0e6; color:#2a2a2a; border-left:4px solid #b8860b; padding:12px 16px; margin:12px 0; border-radius:4px;">
+<h4 style="margin-top:0; color:#b8860b;">Goblin Monarch</h4>
+
+<p><strong>Goblin, Humanoid</strong><br>
+<strong>Level 1 Leader</strong> | <strong>EV 12</strong></p>
+
+<p><strong>Size:</strong> 1S | <strong>Speed:</strong> 6 | <strong>Stamina:</strong> 80 | <strong>Stability:</strong> 1 | <strong>Free Strike:</strong> 4<br>
+<strong>Movement:</strong> Climb</p>
+
+<p>

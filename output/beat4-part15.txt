@@ -1,0 +1,91 @@
+<strong>Might</strong> +0, <strong>Agility</strong> +3, <strong>Reason</strong> +1, <strong>Intuition</strong> +0, <strong>Presence</strong> +3</p>
+
+<p><strong>Handaxe</strong> ◆ 2d10 + 3 — <em>Signature Ability, Main action</em><br>
+<em>Melee, Ranged, Strike, Weapon</em> | Melee 1 or Ranged 5 | Two creatures or objects</p>
+<ul>
+<li>≤11: 7 damage</li>
+<li>12–16: 10 damage</li>
+<li>17+: 13 damage</li>
+<li>Effect: One ally within 10 squares of the monarch can make a free strike.</li>
+</ul>
+
+<p><strong>Get in Here!</strong> — <em>1 Malice, Maneuver</em><br>
+<em>Ranged</em> | Ranged 20 | Special<br>
+Effect: Two goblin runners appear in unoccupied spaces within distance.</p>
+
+<p><strong>Meat Shield</strong> — <em>Triggered action</em><br>
+<em>Melee</em> | Melee 1 | One ally<br>
+Trigger: A creature targets the monarch with a strike.<br>
+Effect: The ally is the target of the triggering strike instead.</p>
+
+<p><strong>Crafty</strong> — The monarch doesn't provoke opportunity attacks by moving.</p>
+
+<p><strong>End Effect</strong> — At the end of each of their turns, the monarch can take 5 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way.</p>
+
+<p><strong>What Are You Waiting For?</strong> — <em>Villain Action 1</em><br>
+<em>Area</em> | 10 burst | Each ally in the area<br>
+Effect: Each target can move up to their speed or make a free strike.</p>
+
+<p><strong>Focus Fire</strong> — <em>Villain Action 2</em><br>
+<em>Ranged</em> | Ranged 10 | One enemy or object<br>
+Effect: Each ally within 10 squares of the target can move up to their speed toward the target.</p>
+
+<p><strong>Kill!</strong> — <em>Villain Action 3</em><br>
+Effect: Each enemy in the encounter takes 2 damage for each goblin adjacent to them.</p>
+</div>
+
+<h4>Ambush Aftermath</h4>
+
+<p>If the PCs <strong>win</strong> the fight:</p>
+<ul>
+<li>Searching the barricade reveals the goblins' meagre supplies—stolen traveller's goods, dried cave-fish, and corroded coins. Worth 10 gold total.</li>
+<li>A crude map scratched on cave-bark shows the goblin caves deeper in the Titanspine, with an area marked in charcoal scratches. An easy Intuition test identifies this as the direction of Hrafnborg—the goblins were fleeing <em>from</em> that direction.</li>
+<li>This is key intelligence: something in the southwest is driving creatures—living and dead—out of their homes.</li>
+<li>Earn <strong>1 Victory</strong> for defeating the ambush.</li>
+</ul>
+
+<p>If the PCs <strong>negotiate</strong>:</p>
+<ul>
+<li>They lose half their remaining rations but gain the crude map (same intelligence as above).</li>
+<li>The Monarch offers a “gift”—a tarnished bronze ring with a rune that neither the Monarch nor the PCs can read. (This is an ancient Jötunfolk traveller's ring. It's worth nothing, but it has sentimental value to the Monarch. Accepting it graciously earns +1 to future interactions with non-hostile goblin groups.)</li>
+</ul>
+
+<p>If the PCs <strong>flee</strong>:</p>
+<ul>
+<li>The goblins take their supplies from wherever the PCs were camped or resting. Lose all remaining rations.</li>
+<li>The goblins don't pursue beyond their territory.</li>
+</ul>
+
+<hr>
+
+<h2>Part 11: Arrival at Stairwatch</h2>
+
+<p><em>Approximately Sólmánuður 15th–16th.</em></p>
+
+<p>Regardless of montage outcomes, the PCs arrive at Stairwatch.</p>
+
+<div style="background:#2a2a3a; color:#e0d8c8; padding:14px 18px; margin:12px 0; border-radius:6px; border-left:4px solid #c4a03c; font-style:italic;">
+<p>Stairwatch hunches at the foot of Titan’s Stair like a dog that’s been kicked too many times. It’s a waystation town—built for travellers who never stay long, and it shows. The buildings lean. The streets are mud frozen into ridges. Smoke rises from every chimney, but the fires burn low.</p>
+
+<p>The inn-sign reads <em>The Broken Stair</em>. Below it, smaller: <em>Rooms. Ale. No questions.</em></p>
+
+<p>The town’s Ever-Ember burns in a stone ring at the central crossroads. It’s the smallest you’ve seen—barely a campfire. But it burns. It burns.</p>
+</div>
+
+<h3>What the PCs Find in Stairwatch</h3>
+
+<ul>
+<li>
+<p><strong>Population:</strong> ~300 permanent residents, plus transient miners, traders, and refugees.</p>
+</li>
+<li>
+<p><strong>Atmosphere:</strong> Tense, suspicious, but functional. People here don’t starve—they trade in ore from the Titan’s Stair mines—but they don’t trust outsiders.</p>
+</li>
+<li>
+<p><strong>The Broken Stair Inn:</strong> Run by a Dwarf named Hild. She asks no questions, charges fair prices, and waters the ale exactly enough to be annoying.</p>
+</li>
+<li>
+<p><strong>The Chainwarden Post:</strong> A small stone building near the Ever-Ember. Two Wardens: one bored, one paranoid. They’ll want to see papers.</p>
+</li>
+<li>
+<p><strong>Lew Tosferd:</strong> Not immediately visible. He doesn’t advertise. He lives somewhere in the upper town. Finding him is Easy because he’s well-known around town—but convincing him to help is another matter. (See

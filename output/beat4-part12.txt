@@ -1,0 +1,74 @@
+eout conditions, wind strong enough to push characters off the path. Finding a cave, overhang, or lee-side shelter before exposure sets in.</td>
+</tr>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;">Spot and avoid an avalanche zone</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Intuition</td>
+<td style="padding:6px 10px; color:#2a2a2a;">The slope above the path is loaded with snow. The vibration of footsteps could trigger a slide. Identify the danger and route through safely—or run.</td>
+</tr>
+<tr style="background:#f5f0e6; color:#2a2a2a;">
+<td style="padding:6px 10px; color:#2a2a2a;">Repair a broken wagon axle / improvise a bridge</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Reason</td>
+<td style="padding:6px 10px; color:#2a2a2a;">A section of the mountain road has collapsed entirely, leaving a 10-foot gap over nothing. Use available timber, rope, and ingenuity to cross.</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Round 3 Interlude: The Watched Feeling</h3>
+<div style="background:#2a2a3a; color:#e0d8c8; padding:14px 18px; margin:12px 0; border-radius:6px; border-left:4px solid #c4a03c; font-style:italic;">
+<p>As you crest a hill, a feeling settles over the group—a prickling at the back of the neck. Not a sound. Not a movement. Just the unmistakable sense that <strong>something</strong> out there knows where you are.</p>
+
+<p>The ridge to the northwest is empty. The sky is grey. Nothing moves.</p>
+
+<p>But the feeling doesn’t leave.</p>
+</div>
+
+<p>This is the first effect of Grafvitnir’s network. Intelligence from Hrafnborg has reached agents in the field, and the PCs are now being tracked—not by the hound, but by the Pale Maw’s informant chains: corrupted couriers, compromised Chainwarden posts, and Wyrd-touched carrion birds with silver eyes circling high above.</p>
+
+<p>If anyone uses magic to scan: nothing registers. Grafvitnir’s agents are mortal. The Wyrd-channels that feed them are invisible to arcane detection.</p>
+
+<h3>Round 4 Sample Tests</h3>
+<table style="width:100%; border-collapse:collapse; margin:12px 0; color:#2a2a2a; background:#faf8f2;">
+<thead>
+<tr style="background:#e8e0d0; color:#2a2a2a;">
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Challenge</th>
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Characteristic</th>
+<th style="padding:6px 10px; text-align:left; color:#2a2a2a;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;">Traverse the Titan’s Stair switchbacks</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Agility</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Ice-slick switchbacks carved into the mountain face. The path is narrow—two abreast at best—with a sheer drop on one side. One slip means a very long fall.</td>
+</tr>
+<tr style="background:#f5f0e6; color:#2a2a2a;">
+<td style="padding:6px 10px; color:#2a2a2a;">Keep the group moving through exhaustion</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Presence</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Day 9. Everyone is tired, cold, and running low on supplies. The Stair is the hardest section yet, and moral strength matters as much as physical.</td>
+</tr>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;">Handle the ice-bridge at the summit</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Agility / Reason</td>
+<td style="padding:6px 10px; color:#2a2a2a;">The final crossing before the descent: a natural ice-bridge formed over the top of the pass. It groans underfoot. Characters can test the ice (Reason) to find the strongest path or trust balance (Agility) and move fast.</td>
+</tr>
+<tr style="background:#f5f0e6; color:#2a2a2a;">
+<td style="padding:6px 10px; color:#2a2a2a;">Descend safely to the Interior Belt</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Agility</td>
+<td style="padding:6px 10px; color:#2a2a2a;">The descent from Titan’s Stair is steep and loose—scree, ice-melt channels, and treacherous footing. A controlled descent requires skill; a rushed one invites broken ankles.</td>
+</tr>
+<tr>
+<td style="padding:6px 10px; color:#2a2a2a;">Scout for threats on the descent</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Intuition</td>
+<td style="padding:6px 10px; color:#2a2a2a;">The far side of the pass opens into the Interior Belt. From the heights, the PCs can see Stairwatch below—and potentially spot anyone waiting for them.</td>
+</tr>
+<tr style="background:#f5f0e6; color:#2a2a2a;">
+<td style="padding:6px 10px; color:#2a2a2a;">Forage for emergency supplies</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Intuition</td>
+<td style="padding:6px 10px; color:#2a2a2a;">Supplies running low? The high country offers slim pickings: mountain hare, snowberry bushes, frozen lichen. Enough to survive, not to thrive.</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Round 4 Interlude: The Cairn Field</h3>
+<div style="background:#2a2a3a; color:#e0d8c8; padding:14px 18px; margin:12px 0; border-radius:6px; border-left:4px solid #c4a03c; font-style:italic;">
+<p>Near the sum
