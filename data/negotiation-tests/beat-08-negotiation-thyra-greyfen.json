@@ -32,7 +32,7 @@
     "participants": [
       {
         "id": "npc-thyra",
-        "actorUuid": "",
+        "actorUuid": "Compendium.svellheim-entities.svellheim-npcs.FQD1NPA6NLRVXPqB",
         "displayName": "Thyra Blackhand",
         "kind": "npc",
         "role": "Holdfast Commander, Greyfen",
@@ -43,7 +43,7 @@
     "npcStateByParticipantId": {
       "npc-thyra": {
         "interest": {
-          "value": 2,
+          "value": 3,
           "min": 0,
           "max": 5
         },

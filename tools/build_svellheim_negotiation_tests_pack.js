@@ -11,7 +11,7 @@
  * compendium UUIDs remain stable across rebuilds.
  *
  * Usage:
- *   node foundry-svellheim-character-options/tools/build_svellheim_negotiation_tests_pack.js
+ *   node tools/build_svellheim_negotiation_tests_pack.js
  *   npm run build:svellheim-negotiation-tests
  */
 
@@ -21,11 +21,11 @@ const crypto = require('node:crypto');
 
 // ── Paths ──────────────────────────────────────────────────────────────
 const REPO_ROOT = process.cwd();
-const MODULE_DIR = path.join(REPO_ROOT, 'foundry-svellheim-character-options', 'module');
-const SOURCE_DIR = path.join(REPO_ROOT, 'foundry-svellheim-character-options', 'data', 'negotiation-tests');
+const MODULE_DIR = path.join(REPO_ROOT, 'module');
+const SOURCE_DIR = path.join(REPO_ROOT, 'data', 'negotiation-tests');
 const PACK_NAME = 'svellheim-negotiation-tests';
 const PACK_DIR = path.join(MODULE_DIR, 'packs', PACK_NAME);
-const MODULE_ID = 'svellheim-character-options';
+const MODULE_ID = 'svellheim-act1';
 
 // ── Deterministic ID helpers ───────────────────────────────────────────
 const B62 = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';

@@ -32,7 +32,7 @@
     "participants": [
       {
         "id": "npc-lew",
-        "actorUuid": "",
+        "actorUuid": "Compendium.svellheim-entities.svellheim-npcs.cgnS3Oier920OFlW",
         "displayName": "Llewyellen \"Lew\" Tosferd",
         "kind": "npc",
         "role": "The Finder",
