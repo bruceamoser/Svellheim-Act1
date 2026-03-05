@@ -2,17 +2,17 @@
 /* eslint-disable no-console */
 
 /**
- * build_svellheim_director_journals_pack.js
+ * build_svellheim_player_journals_pack.js
  *
- * Reads director journal JSON files from data/director-journals/ and writes
- * them into a LevelDB compendium pack at module/packs/svellheim-director-journals/.
+ * Reads player journal JSON files from data/player-journals/ and writes them
+ * into a LevelDB compendium pack at module/packs/svellheim-act1-player-journals/.
  *
  * Each journal and page gets a deterministic _id derived from its name so that
  * compendium UUIDs remain stable across rebuilds.
  *
  * Usage:
  *   cd Svellheim-Act1
- *   node tools/build_svellheim_director_journals_pack.js
+ *   node tools/build_svellheim_player_journals_pack.js
  */
 
 const fs = require('node:fs');
@@ -21,9 +21,10 @@ const crypto = require('node:crypto');
 
 // ── Paths ──────────────────────────────────────────────────────────────
 const REPO_ROOT = process.cwd();
-const SOURCE_DIR = path.join(REPO_ROOT, 'data', 'director-journals');
-const PACK_NAME = 'svellheim-act1-director-journals';
-const PACK_DIR = path.join(REPO_ROOT, 'module', 'packs', PACK_NAME);
+const MODULE_DIR = path.join(REPO_ROOT, 'module');
+const SOURCE_DIR = path.join(REPO_ROOT, 'data', 'player-journals');
+const PACK_NAME = 'svellheim-act1-player-journals';
+const PACK_DIR = path.join(MODULE_DIR, 'packs', PACK_NAME);
 const MODULE_ID = 'svellheim-act1';
 
 // ── Deterministic ID helpers ───────────────────────────────────────────
@@ -47,13 +48,6 @@ function foundryIdFromSeed(seed) {
   return base62FromBuffer(digest.subarray(0, 12), 16);
 }
 
-function slugify(str) {
-  return str
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/(^-|-$)/g, '');
-}
-
 // ── LevelDB writer ────────────────────────────────────────────────────
 
 async function writePack({ journals, pages, folders, outDir }) {
@@ -65,17 +59,12 @@ async function writePack({ journals, pages, folders, outDir }) {
   const db = new ClassicLevel(outDir, { keyEncoding: 'utf8', valueEncoding: 'utf8' });
   await db.open();
 
-  // Folders
   for (const f of folders) {
     await db.put(`!folders!${f._id}`, JSON.stringify(f));
   }
-
-  // Journals (parent entries — pages array contains page IDs only)
   for (const j of journals) {
     await db.put(`!journal!${j._id}`, JSON.stringify(j));
   }
-
-  // Pages (keyed by journalId.pageId)
   for (const { journalId, page } of pages) {
     await db.put(`!journal.pages!${journalId}.${page._id}`, JSON.stringify(page));
   }
@@ -124,12 +113,12 @@ async function main() {
 
   console.log(`Found ${jsonFiles.length} journal files in ${path.relative(REPO_ROOT, SOURCE_DIR)}/\n`);
 
-  // Create a root folder for all director journals.
-  const rootFolderSeed = `folder:${PACK_NAME}:root:Director Journals`;
+  // Create a root folder for all player journals.
+  const rootFolderSeed = `folder:${PACK_NAME}:root:Player Journals`;
   const rootFolderId = foundryIdFromSeed(rootFolderSeed);
   const folders = [
     mkFolder({
-      name: 'Director Journals',
+      name: 'Player Journals',
       type: 'JournalEntry',
       folder: null,
       seed: rootFolderSeed,
@@ -168,7 +157,7 @@ async function main() {
         video: rp.video || { controls: true, volume: 0.5 },
         src: rp.src || null,
         category: rp.category || null,
-        ownership: { default: 0 },
+        ownership: { default: -1 },
         flags: rp.flags || {},
         _stats: {
           compendiumSource: null,
@@ -187,7 +176,7 @@ async function main() {
       pages.push({ journalId, page });
     }
 
-    // Build journal entry
+    // Build journal entry — default ownership allows observer access
     const journal = {
       name: raw.name || stem,
       _id: journalId,
@@ -195,7 +184,7 @@ async function main() {
       folder: rootFolderId,
       categories: [],
       sort: raw.sort ?? 0,
-      ownership: { default: 0 },
+      ownership: { default: -1 },
       flags: raw.flags || {},
       _stats: {
         compendiumSource: null,

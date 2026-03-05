@@ -4,8 +4,8 @@
   "description": "Act 1 of the Svellheim campaign for the Draw Steel system. Contains montage tests, negotiation tests, and player journals for the Restore the Flame storyline.",
   "url": "https://github.com/bruceamoser/Svellheim-Act1",
   "manifest": "https://github.com/bruceamoser/Svellheim-Act1/releases/latest/download/module.json",
-  "download": "https://github.com/bruceamoser/Svellheim-Act1/releases/download/v0.1.3/svellheim-act1-v0.1.3.zip",
-  "version": "0.1.3",
+  "download": "https://github.com/bruceamoser/Svellheim-Act1/releases/download/v0.1.2/svellheim-act1-v0.1.2.zip",
+  "version": "0.1.2",
   "authors": [
     {
       "name": "Bruce A. Moser"
@@ -31,30 +31,30 @@
   },
   "packs": [
     {
-      "name": "svellheim-act1-montage-tests",
+      "name": "svellheim-montage-tests",
       "label": "Svellheim Act 1: Montage Tests",
-      "path": "packs/svellheim-act1-montage-tests",
+      "path": "packs/svellheim-montage-tests",
       "type": "Item",
       "system": "draw-steel"
     },
     {
-      "name": "svellheim-act1-negotiation-tests",
+      "name": "svellheim-negotiation-tests",
       "label": "Svellheim Act 1: Negotiation Tests",
-      "path": "packs/svellheim-act1-negotiation-tests",
+      "path": "packs/svellheim-negotiation-tests",
       "type": "Item",
       "system": "draw-steel"
     },
     {
-      "name": "svellheim-act1-player-journals",
+      "name": "svellheim-player-journals",
       "label": "Svellheim Act 1: Player Journals",
-      "path": "packs/svellheim-act1-player-journals",
+      "path": "packs/svellheim-player-journals",
       "type": "JournalEntry",
       "system": "draw-steel"
     },
     {
-      "name": "svellheim-act1-director-journals",
+      "name": "svellheim-director-journals",
       "label": "Svellheim Act 1: Director Journals",
-      "path": "packs/svellheim-act1-director-journals",
+      "path": "packs/svellheim-director-journals",
       "type": "JournalEntry",
       "system": "draw-steel"
     }

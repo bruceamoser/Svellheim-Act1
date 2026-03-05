@@ -23,7 +23,7 @@ const crypto = require('node:crypto');
 const REPO_ROOT = process.cwd();
 const MODULE_DIR = path.join(REPO_ROOT, 'module');
 const SOURCE_DIR = path.join(REPO_ROOT, 'data', 'negotiation-tests');
-const PACK_NAME = 'svellheim-negotiation-tests';
+const PACK_NAME = 'svellheim-act1-negotiation-tests';
 const PACK_DIR = path.join(MODULE_DIR, 'packs', PACK_NAME);
 const MODULE_ID = 'svellheim-act1';
 
