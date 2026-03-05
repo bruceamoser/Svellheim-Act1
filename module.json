@@ -4,8 +4,8 @@
   "description": "Act 1 of the Svellheim campaign for the Draw Steel system. Contains montage tests, negotiation tests, and player journals for the Restore the Flame storyline.",
   "url": "https://github.com/bruceamoser/Svellheim-Act1",
   "manifest": "https://github.com/bruceamoser/Svellheim-Act1/releases/latest/download/module.json",
-  "download": "https://github.com/bruceamoser/Svellheim-Act1/releases/download/v0.1.1/svellheim-act1-v0.1.1.zip",
-  "version": "0.1.1",
+  "download": "https://github.com/bruceamoser/Svellheim-Act1/releases/download/v0.1.2/svellheim-act1-v0.1.2.zip",
+  "version": "0.1.2",
   "authors": [
     {
       "name": "Bruce A. Moser"
@@ -24,7 +24,8 @@
     "requires": [
       {
         "id": "svellheim-entities",
-        "type": "module"
+        "type": "module",
+        "manifest": "https://github.com/bruceamoser/Svellheim-Entities/releases/latest/download/module.json"
       }
     ]
   },
