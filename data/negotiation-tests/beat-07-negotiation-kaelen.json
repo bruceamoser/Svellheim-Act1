@@ -18,7 +18,7 @@
       "structure": {
         "kind": "freeform",
         "maxRounds": null,
-        "stages": null
+        "stages": []
       },
       "visibility": {
         "showNpcNames": true,
@@ -56,34 +56,34 @@
           {
             "id": "redemption",
             "label": "Redemption",
-            "isRevealed": false
+            "revealed": false
           },
           {
             "id": "duty",
             "label": "Duty",
-            "isRevealed": false
+            "revealed": false
           },
           {
             "id": "protecting-common-folk",
             "label": "Protecting the Common Folk",
-            "isRevealed": false
+            "revealed": false
           }
         ],
         "pitfalls": [
           {
             "id": "glory",
             "label": "Glory",
-            "isRevealed": false
+            "revealed": false
           },
           {
             "id": "orders-from-authority",
             "label": "Orders from Authority",
-            "isRevealed": false
+            "revealed": false
           },
           {
             "id": "minimizing-guilt",
             "label": "Minimizing Her Guilt",
-            "isRevealed": false
+            "revealed": false
           }
         ],
         "discovered": {
@@ -103,5 +103,21 @@
   },
   "effects": [],
   "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
   "_id": "9LI7tsCuaQaMq064"
 }

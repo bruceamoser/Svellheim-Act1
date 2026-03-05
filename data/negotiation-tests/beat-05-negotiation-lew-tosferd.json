@@ -18,7 +18,7 @@
       "structure": {
         "kind": "freeform",
         "maxRounds": null,
-        "stages": null
+        "stages": []
       },
       "visibility": {
         "showNpcNames": true,
@@ -56,34 +56,34 @@
           {
             "id": "profit",
             "label": "Profit",
-            "isRevealed": false
+            "revealed": false
           },
           {
             "id": "curiosity",
             "label": "Curiosity",
-            "isRevealed": false
+            "revealed": false
           },
           {
             "id": "self-preservation",
             "label": "Self-Preservation",
-            "isRevealed": false
+            "revealed": false
           }
         ],
         "pitfalls": [
           {
             "id": "threats",
             "label": "Threats",
-            "isRevealed": false
+            "revealed": false
           },
           {
             "id": "moralizing",
             "label": "Moralizing",
-            "isRevealed": false
+            "revealed": false
           },
           {
             "id": "demanding-charity",
             "label": "Demanding Charity",
-            "isRevealed": false
+            "revealed": false
           }
         ],
         "discovered": {
@@ -103,5 +103,21 @@
   },
   "effects": [],
   "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
   "_id": "bKZIMB2Exq4QQHLp"
 }

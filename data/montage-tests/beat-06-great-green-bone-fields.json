@@ -19,5 +19,21 @@
   },
   "effects": [],
   "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
   "_id": "8Daau2asHdkEgAhe"
 }

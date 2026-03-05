@@ -18,7 +18,7 @@
       "structure": {
         "kind": "freeform",
         "maxRounds": null,
-        "stages": null
+        "stages": []
       },
       "visibility": {
         "showNpcNames": true,
@@ -56,24 +56,24 @@
           {
             "id": "justice",
             "label": "Justice",
-            "isRevealed": false
+            "revealed": false
           },
           {
             "id": "respect",
             "label": "Respect",
-            "isRevealed": false
+            "revealed": false
           }
         ],
         "pitfalls": [
           {
             "id": "lies",
             "label": "Lies",
-            "isRevealed": false
+            "revealed": false
           },
           {
             "id": "evasion",
             "label": "Evasion",
-            "isRevealed": false
+            "revealed": false
           }
         ],
         "discovered": {
@@ -93,5 +93,21 @@
   },
   "effects": [],
   "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
   "_id": "rY3UDmvjU5W1CFSU"
 }

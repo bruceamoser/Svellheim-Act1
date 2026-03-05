@@ -18,7 +18,7 @@
       "structure": {
         "kind": "freeform",
         "maxRounds": null,
-        "stages": null
+        "stages": []
       },
       "visibility": {
         "showNpcNames": true,
@@ -56,29 +56,29 @@
           {
             "id": "hope",
             "label": "Hope (the Green Heart lives / Kaelen's ember-mark)",
-            "isRevealed": false
+            "revealed": false
           },
           {
             "id": "pragmatism",
             "label": "Pragmatism (tactical aid, fire tactics, real help)",
-            "isRevealed": false
+            "revealed": false
           },
           {
             "id": "ember-mark",
             "label": "Kaelen Reveals the Ember-Mark (+2 Interest, triggers success)",
-            "isRevealed": false
+            "revealed": false
           }
         ],
         "pitfalls": [
           {
             "id": "authority",
             "label": "Invoking Institutional Authority (King, Wardens)",
-            "isRevealed": false
+            "revealed": false
           },
           {
             "id": "threats",
             "label": "Threats / Intimidation (-2 Patience, triggers hostility)",
-            "isRevealed": false
+            "revealed": false
           }
         ],
         "discovered": {
@@ -98,5 +98,21 @@
   },
   "effects": [],
   "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
   "_id": "x0BD8XDtjA9h3PX6"
 }
